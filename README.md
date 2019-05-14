@@ -6,7 +6,7 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
   * https://github.com/AnesBendimerad/Exceptional-Sub-graph-Mining
 
   * > [A. Bendimerad, M. Plantevit, C. Robardet. Unsupervised Exceptional Attributed Sub-graph Mining in Urban Data. In ICDM 2016.] 
-
+  
 * CENERGETICS and EXCESS   are built respectively on top  ENERGETICS and EXPRESS by considering closed patterns. For more details: 
  * https://github.com/AnesBendimerad/ClosedExceptionalSubgraphMining/tree/master/Algorithms
  * > [Ahmed Anes Bendimerad, Marc Plantevit, Céline Robardet: Mining exceptional closed patterns in attributed graphs. Knowl. Inf. Syst. 56(1): 1-25 (2018)]
