@@ -16,3 +16,8 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
 
 # Data generators
 * [A. Bendimerad, V. Codocedo, J.-F. Boulicaut, M. Kaytoue. Generating EPCIS events data with the video game OpenTTD, 2016](https://anesbendimerad.github.io/EPCIS-Events-Generator-Based-On-OpenTTD/)
+
+# Python library
+* CDlib is a python library dedicated to the community detection problem on graphs. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
+  * https://github.com/GiulioRossetti/cdlib
+  * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
