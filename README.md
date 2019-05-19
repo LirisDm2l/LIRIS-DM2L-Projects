@@ -14,6 +14,10 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
 # Pattern mining algorithms for sequences 
 * [G. Bosc, P. Tan, J.-F. Boulicaut, C. Raïssi, M. Kaytoue. Mining balanced patterns from RTS games in IEEE Transactions on Computational Intelligence and AI in Games, 2015](http://guillaume-bosc.github.io/BalanceSpan/)
 
+* SITS-P2miner is a mining system for extracting patterns from Satellite Image Time Series. It includes four main modules for pre-processing, pattern extraction, pattern ranking and pattern visualization. It is based on the extraction of grouped frequent sequential patterns and on swap randomization.
+  * https://sites.google.com/view/sits-p2miner
+  * > [N. Meger, C. Rigotti, C. Pothier, T. Nguyen, F. Lodge, L. Gueguen, R. Andreoli, M.-P. Doin and M. Datcu. Ranking Evolution Maps for Satellite Image Time Series Exploration - Application to Crustal Deformation and Environmental Monitoring. In journal: Data Mining and Knowledge Discovery. Springer, 2019, 33 (1), pp.131-167.]
+  
 # Data generators
 * [A. Bendimerad, V. Codocedo, J.-F. Boulicaut, M. Kaytoue. Generating EPCIS events data with the video game OpenTTD, 2016](https://anesbendimerad.github.io/EPCIS-Events-Generator-Based-On-OpenTTD/)
 
