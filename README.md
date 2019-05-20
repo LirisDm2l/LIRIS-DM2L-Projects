@@ -11,7 +11,7 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
   * https://github.com/AnesBendimerad/ClosedExceptionalSubgraphMining/tree/master/Algorithms
   * > [Ahmed Anes Bendimerad, Marc Plantevit, Céline Robardet: Mining exceptional closed patterns in attributed graphs. Knowl. Inf. Syst. 56(1): 1-25 (2018)]
  
-* COSMIC 
+* COSMIC allows the discovery of exceptional subgraphs in __edge-attributed graphs__. For more details: 
   * > https://github.com/mehdi-kaytoue/contextual-exceptional-subgraph-mining
   * >[Mehdi Kaytoue, Marc Plantevit, Albrecht Zimmermann, Ahmed Anes Bendimerad, Céline Robardet: Exceptional contextual subgraph mining. Machine Learning 106(8): 1171-1211 (2017)]
 
