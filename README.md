@@ -1,4 +1,11 @@
 This repository contains links to the projects made by the Team LIRIS DM2L:
+# Subgroup Discovery / Exceptional Model Mining
+
+* __RefineAndMine__
+  * https://github.com/Adnene93/RefineAndMine
+  * > [	Aimene Belfodil, Adnene Belfodil, Mehdi Kaytoue: Anytime Subgroup Discovery in Numerical Domains with Guarantees. ECML/PKDD (2) 2018: 500-516]
+
+*
 
 # Pattern mining algorithms for attributed graphs
 
