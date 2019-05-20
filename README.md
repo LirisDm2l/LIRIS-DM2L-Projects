@@ -10,6 +10,10 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
   * > [Guillaume Bosc, Jean-François Boulicaut, Chedy Raïssi, Mehdi Kaytoue:
 Anytime discovery of a diverse set of patterns with Monte Carlo tree search. Data Min. Knowl. Discov. 32(3): 604-650 (2018)]
 
+* __DSC__: Exceptional Model Mining in vote or rating data. This algorithm makes it possible to discover exceptional (dis)agreements between two groups of individuals. The discovered patterns are of the form (c,g1,g2) where __c__ is the context in which an exceptional (dis)agreement is observed between the two groups of individuals __g1__ and __g2__.
+  * https://github.com/Adnene93/DiscoveringSimilarityChanges
+  * > [Adnene Belfodil, Sylvie Cazalens, Philippe Lamarre, Marc Plantevit: Flash Points: Discovering Exceptional Pairwise Behaviors in Vote or Rating Data. ECML/PKDD (2) 2017: 442-458]
+
 # Pattern mining algorithms for attributed graphs
 
 * __ENERGETICS__ and __EXPRESS__ are two algorithms that allow to discover exceptional patterns in __vertex attributed graphs__. ENERGETICS is an exhaustive algorithm while EXPRESS is an output space sampling algorithm. These algorithms were presented at IEEE ICDM 2016. For more details:
