@@ -19,11 +19,14 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
   * > [Ahmed Anes Bendimerad, Marc Plantevit, Céline Robardet: Mining exceptional closed patterns in attributed graphs. Knowl. Inf. Syst. 56(1): 1-25 (2018)]
  
 * COSMIC allows the discovery of exceptional subgraphs in __edge-attributed graphs__. For more details: 
-  * > https://github.com/mehdi-kaytoue/contextual-exceptional-subgraph-mining
-  * >[Mehdi Kaytoue, Marc Plantevit, Albrecht Zimmermann, Ahmed Anes Bendimerad, Céline Robardet: Exceptional contextual subgraph mining. Machine Learning 106(8): 1171-1211 (2017)]
+  * https://github.com/mehdi-kaytoue/contextual-exceptional-subgraph-mining
+  * > [Mehdi Kaytoue, Marc Plantevit, Albrecht Zimmermann, Ahmed Anes Bendimerad, Céline Robardet: Exceptional contextual subgraph mining. Machine Learning 106(8): 1171-1211 (2017)]
 
 # Pattern mining algorithms for sequences 
-* [G. Bosc, P. Tan, J.-F. Boulicaut, C. Raïssi, M. Kaytoue. Mining balanced patterns from RTS games in IEEE Transactions on Computational Intelligence and AI in Games, 2015](http://guillaume-bosc.github.io/BalanceSpan/)
+* BalanceSpan is an algorithm designed to extract frequent patterns (strategies) from StarCraft II replays. It efficiently computes a measure that evaluates the balance of a strategy, i.e., if the strategy is likely to win or to lose. It allows the user (i) studying his opponent in an E-sport match, (ii) learning from his own games, and (iii), for the game editor, to study if the rules of the game needs to be adapted due to imbalanced strategies used too often.
+  * http://guillaume-bosc.github.io/BalanceSpan/
+  * >[Guillaume Bosc, Philip Tan, Jean-François Boulicaut, Chedy Raïssi, Mehdi Kaytoue:
+A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Comput. Intellig. and AI in Games 9(2): 123-132 (2017)]
 
 * SITS-P2miner is a mining system for extracting patterns from Satellite Image Time Series. It includes four main modules for pre-processing, pattern extraction, pattern ranking and pattern visualization. It is based on the extraction of grouped frequent sequential patterns and on swap randomization.
   * https://sites.google.com/view/sits-p2miner
