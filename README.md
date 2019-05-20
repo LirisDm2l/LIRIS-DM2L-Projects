@@ -5,7 +5,10 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
   * https://github.com/Adnene93/RefineAndMine
   * > [	Aimene Belfodil, Adnene Belfodil, Mehdi Kaytoue: Anytime Subgroup Discovery in Numerical Domains with Guarantees. ECML/PKDD (2) 2018: 500-516]
 
-*
+* MCTS4DM: Pattern mining & Subgroup Discovery with Monte Carlo Tree Search. By formally defining pattern mining as a game, we can  solve it with Monte Carlo tree search (MCTS). It can be seen as an exhaustive search guided by random simulations which can be stopped early (limited budget) by virtue of its best-first search property. MCTS4DM allows one to mine subgroups in symbolic/numerical data (considering all possible intervals without discretization) with various quality measure (such as the weighted relative accuracy) and can be easily extended to other measures.
+  * https://github.com/guillaume-bosc/MCTS4DM
+  * > [Guillaume Bosc, Jean-François Boulicaut, Chedy Raïssi, Mehdi Kaytoue:
+Anytime discovery of a diverse set of patterns with Monte Carlo tree search. Data Min. Knowl. Discov. 32(3): 604-650 (2018)]
 
 # Pattern mining algorithms for attributed graphs
 
