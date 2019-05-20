@@ -1,7 +1,7 @@
 This repository contains links to the projects made by the Team LIRIS DM2L:
 # Subgroup Discovery / Exceptional Model Mining
 
-* __RefineAndMine__
+* __RefineAndMine__ is an algorithm for discovering subgroups in numerical data. It has three key properties w.r.t. the state of the art: (i) It yields progressively interval patterns whose quality improves over time; (ii) It can be interrupted anytime and always gives a guarantee bounding the error on the top pattern quality and (iii) It always bounds a distance to the exhaustive exploration. 
   * https://github.com/Adnene93/RefineAndMine
   * > [	Aimene Belfodil, Adnene Belfodil, Mehdi Kaytoue: Anytime Subgroup Discovery in Numerical Domains with Guarantees. ECML/PKDD (2) 2018: 500-516]
 
