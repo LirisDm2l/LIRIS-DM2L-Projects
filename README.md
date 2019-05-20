@@ -12,8 +12,8 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
   * > [Ahmed Anes Bendimerad, Marc Plantevit, Céline Robardet: Mining exceptional closed patterns in attributed graphs. Knowl. Inf. Syst. 56(1): 1-25 (2018)]
  
 * COSMIC 
- * https://github.com/mehdi-kaytoue/contextual-exceptional-subgraph-mining
- * [Mehdi Kaytoue, Marc Plantevit, Albrecht Zimmermann, Ahmed Anes Bendimerad, Céline Robardet: Exceptional contextual subgraph mining. Machine Learning 106(8): 1171-1211 (2017)]
+  * > https://github.com/mehdi-kaytoue/contextual-exceptional-subgraph-mining
+  * >[Mehdi Kaytoue, Marc Plantevit, Albrecht Zimmermann, Ahmed Anes Bendimerad, Céline Robardet: Exceptional contextual subgraph mining. Machine Learning 106(8): 1171-1211 (2017)]
 
 # Pattern mining algorithms for sequences 
 * [G. Bosc, P. Tan, J.-F. Boulicaut, C. Raïssi, M. Kaytoue. Mining balanced patterns from RTS games in IEEE Transactions on Computational Intelligence and AI in Games, 2015](http://guillaume-bosc.github.io/BalanceSpan/)
