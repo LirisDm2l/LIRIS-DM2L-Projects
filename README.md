@@ -14,6 +14,11 @@ Anytime discovery of a diverse set of patterns with Monte Carlo tree search. Dat
   * https://github.com/Adnene93/DiscoveringSimilarityChanges
   * > [Adnene Belfodil, Sylvie Cazalens, Philippe Lamarre, Marc Plantevit: Flash Points: Discovering Exceptional Pairwise Behaviors in Vote or Rating Data. ECML/PKDD (2) 2017: 442-458]
 
+* __Olfamine__: Linking molecules to their odors with supervised descriptive rules discovery.
+  * https://projet.liris.cnrs.fr/olfamine/
+  * >[Guillaume Bosc, Marc Plantevit, Jean-François Boulicaut, Moustafa Bensafi, Mehdi Kaytoue: h(odor): Interactive Discovery of Hypotheses on the Structure-Odor Relationship in Neuroscience. ECML/PKDD (3) 2016: 17-21]
+  * >[Licon CC, Bosc G, Sabri M, Mantel M, Fournel A, Bushdid C, et al. (2019) Chemical features mining provides new descriptive structure-odor relationships. PLoS Comput Biol 15(4): e1006945. https://doi.org/10.1371/journal.pcbi.1006945]
+
 # Pattern mining algorithms for attributed graphs
 
 * __ENERGETICS__ and __EXPRESS__ are two algorithms that allow to discover exceptional patterns in __vertex attributed graphs__. ENERGETICS is an exhaustive algorithm while EXPRESS is an output space sampling algorithm. These algorithms were presented at IEEE ICDM 2016. For more details:
