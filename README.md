@@ -43,7 +43,13 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
 * __SITS-P2miner__ is a mining system for extracting patterns from Satellite Image Time Series. It includes four main modules for pre-processing, pattern extraction, pattern ranking and pattern visualization. It is based on the extraction of grouped frequent sequential patterns and on swap randomization.
   * https://sites.google.com/view/sits-p2miner
   * > [N. Meger, C. Rigotti, C. Pothier, T. Nguyen, F. Lodge, L. Gueguen, R. Andreoli, M.-P. Doin and M. Datcu. Ranking Evolution Maps for Satellite Image Time Series Exploration - Application to Crustal Deformation and Environmental Monitoring. In journal: Data Mining and Knowledge Discovery. Springer, 2019, 33 (1), pp.131-167.]
-  
+
+# Other pattern domains
+* __MCPP__: Mining Convex Polygon Patterns in Spatial Datasets.
+  * https://github.com/BelfodilAimene/MiningConvexPolygonPatterns
+  * > [Aimene Belfodil, Sergei O. Kuznetsov, Céline Robardet, Mehdi Kaytoue: Mining Convex Polygon Patterns with Formal Concept Analysis. IJCAI 2017: 1425-1432]
+
+
 # Data generators
 * [A. Bendimerad, V. Codocedo, J.-F. Boulicaut, M. Kaytoue. Generating EPCIS events data with the video game OpenTTD, 2016](https://anesbendimerad.github.io/EPCIS-Events-Generator-Based-On-OpenTTD/)
 
