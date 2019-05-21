@@ -55,7 +55,9 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
 
 
 # Data generators
-* [A. Bendimerad, V. Codocedo, J.-F. Boulicaut, M. Kaytoue. Generating EPCIS events data with the video game OpenTTD, 2016](https://anesbendimerad.github.io/EPCIS-Events-Generator-Based-On-OpenTTD/)
+* EPCIS is a GS1 standard to encode products as they travel throughout the supply chain. As this kind of data is generally sensitive, and because random generators can not easily capture real behaviors, we propose to capture data from the famous game OpenTTD version 1.5.0. This plugin captures all the transportation and the manufacturing events that happen in the game (made by real players of the myriad of available artificial agents) and writes them into an output file using the EPCIS format.
+  * https://anesbendimerad.github.io/EPCIS-Events-Generator-Based-On-OpenTTD/
+  * [A. Bendimerad, V. Codocedo, J.-F. Boulicaut, M. Kaytoue. Generating EPCIS events data with the video game OpenTTD, 2016]
 
 # Python library
 * __CDlib__ is a python library dedicated to the community detection problem on graphs. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
