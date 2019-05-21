@@ -49,7 +49,7 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
   * > [N. Meger, C. Rigotti, C. Pothier, T. Nguyen, F. Lodge, L. Gueguen, R. Andreoli, M.-P. Doin and M. Datcu. Ranking Evolution Maps for Satellite Image Time Series Exploration - Application to Crustal Deformation and Environmental Monitoring. In journal: Data Mining and Knowledge Discovery. Springer, 2019, 33 (1), pp.131-167.]
 
 # Other pattern domains
-* __MCPP__: Mining Convex Polygon Patterns in Spatial Datasets.
+* __MCPP__: Mining Convex Polygon Patterns in Spatial Datasets. Pattern mining considers the search space of numerical data as a set of hyperectangles with sides parallel to the cordinates. We present here several algorithms to mine more expresive numerical patterns: convex polygons.
   * https://github.com/BelfodilAimene/MiningConvexPolygonPatterns
   * > [Aimene Belfodil, Sergei O. Kuznetsov, Céline Robardet, Mehdi Kaytoue: Mining Convex Polygon Patterns with Formal Concept Analysis. IJCAI 2017: 1425-1432]
 
