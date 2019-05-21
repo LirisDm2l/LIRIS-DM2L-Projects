@@ -18,6 +18,10 @@ Anytime discovery of a diverse set of patterns with Monte Carlo tree search. Dat
   * https://projet.liris.cnrs.fr/olfamine/
   * >[Guillaume Bosc, Marc Plantevit, Jean-François Boulicaut, Moustafa Bensafi, Mehdi Kaytoue: h(odor): Interactive Discovery of Hypotheses on the Structure-Odor Relationship in Neuroscience. ECML/PKDD (3) 2016: 17-21]
   * >[Licon CC, Bosc G, Sabri M, Mantel M, Fournel A, Bushdid C, et al. (2019) Chemical features mining provides new descriptive structure-odor relationships. PLoS Comput Biol 15(4): e1006945. https://doi.org/10.1371/journal.pcbi.1006945]
+  
+ * __MICA_Miner__: Mining contrastive antichains in hierarchies. 
+   * https://bitbucket.org/ghentdatascience/mica-miner/src/master/
+   * >[Anes Bendimerad, Jefrey Lijffijt, Marc Plantevit, Céline Robardet, and Tijl De Bie. 2019. Contrastive antichains in hierarchies. In The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’19).]
 
 # Pattern mining algorithms for attributed graphs
 
