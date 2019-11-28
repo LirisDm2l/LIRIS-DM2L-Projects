@@ -33,6 +33,10 @@ Anytime discovery of a diverse set of patterns with Monte Carlo tree search. Dat
 * __CENERGETICS__ and __EXCESS__   are built respectively on top  ENERGETICS and EXPRESS by considering closed patterns. For more details: 
   * https://github.com/AnesBendimerad/ClosedExceptionalSubgraphMining/tree/master/Algorithms
   * > [Ahmed Anes Bendimerad, Marc Plantevit, Céline Robardet: Mining exceptional closed patterns in attributed graphs. Knowl. Inf. Syst. 56(1): 1-25 (2018)]
+  
+* __SIAS_MINER __ 
+  * https://github.com/AnesBendimerad/SIAS-miner
+  
  
 * __COSMIC__ allows the discovery of exceptional subgraphs in __edge-attributed graphs__. For more details: 
   * https://github.com/mehdi-kaytoue/contextual-exceptional-subgraph-mining
