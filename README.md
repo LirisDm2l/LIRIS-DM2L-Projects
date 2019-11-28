@@ -34,9 +34,10 @@ Anytime discovery of a diverse set of patterns with Monte Carlo tree search. Dat
   * https://github.com/AnesBendimerad/ClosedExceptionalSubgraphMining/tree/master/Algorithms
   * > [Ahmed Anes Bendimerad, Marc Plantevit, Céline Robardet: Mining exceptional closed patterns in attributed graphs. Knowl. Inf. Syst. 56(1): 1-25 (2018)]
   
-* __SIAS_MINER __ 
+* __SIAS_MINER__ allows the discovery of subjectively interesting patterns in __vertex attributed graphs__ by taking into account the background knowledge. 
   * https://github.com/AnesBendimerad/SIAS-miner
-  
+  * > [Bendimerad, A., Mel, A., Lijffijt, J., Plantevit, M., Robardet abd C., De Bie, T. Data Min Knowl Disc (2019). https://doi.org/10.1007/s10618-019-00664-w]
+
  
 * __COSMIC__ allows the discovery of exceptional subgraphs in __edge-attributed graphs__. For more details: 
   * https://github.com/mehdi-kaytoue/contextual-exceptional-subgraph-mining
