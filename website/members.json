@@ -1,0 +1,52 @@
+[
+{"name":"Céline Robardet",
+"status":"PR",
+"affiliation":"INSA",
+"keywords":"Complex systems,Pattern mining",
+"photo":"https://perso.liris.cnrs.fr/celine.robardet/doc/celine_web.png",
+"webpage":"https://perso.liris.cnrs.fr/celine.robardet/"
+},
+ {"name":"Jean-François Boulicaut",
+"status":"PR",
+"affiliation":"INSA",
+"keywords":"Pattern mining,knowledge discovery",
+"photo":"https://perso.liris.cnrs.fr/jean-francois.boulicaut/IF%20JFBoulicaut.JPG",
+"webpage":"https://perso.liris.cnrs.fr/jean-francois.boulicaut/"
+},
+  {"name":"Alexandre Aussem",
+"status":"PR",
+"affiliation":"UCBL",
+"keywords":"Causal inference,bayesian networks",
+"photo":"http://perso.univ-lyon1.fr/alexandre.aussem/design/aussem.jpg",
+"webpage":"http://perso.univ-lyon1.fr/alexandre.aussem/teaching.html"
+},
+{"name":"Rémy Cazabet",
+"status":"MDC",
+"affiliation":"UCBL",
+"keywords":"Network Science,Machine Learning on Graphs",
+"photo":"http://cazabetremy.fr/pics/remySmall.jpg",
+"webpage":"http://cazabetremy.fr",
+ "twitter":"https://twitter.com/yquetzal"
+},
+ {"name":"Marc Plantevit ",
+"status":"MDC",
+"affiliation":"UCBL",
+"keywords":"Pattern mining,Preferences",
+"photo":"https://perso.liris.cnrs.fr/mplantev/doku/lib/exe/fetch.php?w=200&tok=34e843&media=moi.jpg",
+"webpage":"https://perso.liris.cnrs.fr/mplantev/doku/"
+},
+ {"name":"Rafael Ramos Tubino",
+"status":"PHD",
+"affiliation":"UCBL",
+"keywords":"Cryptocurrencies,Machine Learning on Graphs",
+"photo":"http://www.magicianpalace.com/images/rqktzyq8h40g.jpg",
+"webpage":"https://liris.cnrs.fr/page-membre/rafael-ramos-tubino"
+},
+ {"name":"Louis Duvivier",
+"status":"PHD",
+"affiliation":"INSA",
+"keywords":"Graph models, Community Detection",
+"photo":"",
+"webpage":"https://liris.cnrs.fr/page-membre/louis-duvivier"
+}
+]
