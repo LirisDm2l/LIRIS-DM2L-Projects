@@ -106,5 +106,19 @@
 "keywords":"Graph models, Community Detection",
 "photo":"",
 "webpage":"https://liris.cnrs.fr/page-membre/louis-duvivier"
+},
+ {"name":"Jacques Fize",
+"status":"Podstdoc",
+"affiliation":"INSA",
+"keywords":"Text-Mining, Information Retrieval",
+"photo":"https://jacquesfize.com/img/photo.jpg",
+"webpage":"https://jacquesfize.com"
+},
+ {"name":"Aimene Belfodil",
+"status":"PM",
+"affiliation":"",
+"keywords":"",
+"photo":"",
+"webpage":"https://liris.cnrs.fr/page-membre/aimene-belfodil"
 }
 ]
