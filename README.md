@@ -68,6 +68,8 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
 * __CDlib__ is a python library dedicated to the community detection problem on graphs. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
   * https://github.com/GiulioRossetti/cdlib
   * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
+  * __tnetwork__ is a python library dedicated to the manipulation of temporal/dynamic networks. In particular, it contains implemenation of algorithms for dynamic community discovery and tracking, evaluation functions, visualizations, and other tools related to this research topic
+  * https://github.com/Yquetzal/tnetwork
   
 # Chatbot
   * __chatbotinfo__  is a context aware  education chatbot based on hierarchical recurrent attention network. This chatbot is now online and answer to questions from applicants to the Master in Data Science of University CLaude Bernard Lyon 1.   
