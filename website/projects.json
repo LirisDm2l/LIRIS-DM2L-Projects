@@ -63,5 +63,14 @@
  "budget_k":100,
  "who":"Mathonat,Boulicaut,Kaytoue",
   "industrial":true
+},
+   {"name":"Analyse de la structure et de la dynamique des contextes de citation pour de meilleurs indicateurs bibliométriques",
+"description":"Projet IXXI, en collaboration avec Marc Bertin du laboratoire ELICO",
+"start":2020,
+"end":2022,
+ "funding":"IXXI",
+ "budget_k":5,
+ "who":"Cazabet",
+  "industrial":false
 }
 ]
