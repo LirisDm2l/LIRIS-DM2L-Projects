@@ -1,4 +1,51 @@
 [
+   {"name":"CovDyn, Covid Dynamics",
+"description":"Simulation de propagation de l'épidémie de Covid-19. Etude des possibilités d'application des modèles compartimentaux pour capter les dynamiques de confinement et de déconfinement. Développement de modèles de simulation permettant d'étudier l'interaction entre différentes mesures (port de masque, distanciation, traçage des contacts, tests, isolement). Evaluation sur simulateur des stratégies vaccinales. Le projet est coordonné par Pascal Roy (Université Lyon 1, HCL, LBBE).",
+"start":2020,
+"end":2021,
+ "funding":"Institutions",
+ "budget_k":50,
+ "who":"Rigotti",
+   "partners":"Hospices Civils de Lyon, Laboratoire de Biométrie et Biologie Evolutive, Laboratoire de Mécanique des Fluides et d’Acoustique, Institut Camille Jordan, Laboratoire de Tribologie et Dynamique des Systèmes, Laboratoire de Sciences Actuarielle et Financière"
+
+},
+ {"name":"GEODE, Encyclopedic geographical discourse",
+"description":"https://geode-project.github.io/ <br>Le projet interdisciplinaire GEODE (2020-2024) financé par le LabEX ASLAN réunit des chercheurs en linguistique, informatique et géographie des laboratoires ICAR, LIRIS et EVS. Ce projet fait suite au projet GéoDISCO (2019-2020) financé par la MSH Lyon St-Etienne. Notre objectif est d’étudier dans un corpus de quatre encyclopédies françaises les changements survenus dans les discours géographiques entre 1750 et nos jours. Pour cela, nous nous aiderons des méthodes de classification semi-supervisée des textes, de génération de modèles de langues et de repérage automatique de routines discursives. ",
+"start":2020,
+"end":2024,
+ "funding":"LABEX",
+ "budget_k":150,
+ "who":"Moncla",
+   "partners":"Laboratoire de Linguistique Formelle, The Alan Turing Institute, Laboratoire de linguistique et didactique des langues étrangères et maternelles, UMR 5600 ENVIRONNEMENT VILLE SOCIÉTÉ, ICAR"
+
+},
+ {"name":"VEL'INNOV, Les vélos en libre service automatisé. Un système socio-technique innovant et ses appropriations sociales",
+"description":"",
+"start":2013,
+"end":2016,
+ "funding":"ANR",
+ "budget_k":150,
+ "who":"Robardet",
+   "partners":"JCDecaux, Laboratoire Aménagement Economie Transports, UMR 5600 ENVIRONNEMENT VILLE SOCIÉTÉ, Laboratoire de Physique de l'ENS de Lyon"
+
+},
+ {"name":"INTEGRATE, Integrated Solutions for Agile Manufacturing in High-mix Semiconductor Fabs",
+"description":"INTEGRATE EU FP7 (2013-2015) Integrated Solutions for Agile Manufacturing in High-mix Semiconductor Fabs : This projects involves 28 european partners and leaded by STMicroelectronics. Our DM2L team is involved in WP5 ”Data Analysis and Yield”. Maintaining cost decrease per function, reducing cycle times, improving reproducibility and equipment effectiveness while reducing the environmental impact of the factories are key challenges to be addressed to keep the competitiveness of European SC manufacturers. The INTEGRATE project aims to enhance European semiconductor fabs efficiency by providing methods and tools to better control the process variability, reduce the cycle time and enhance the effectiveness of the production equipment.",
+"start":2013,
+"end":2015,
+ "funding":"FP7",
+ "budget_k":150,
+ "who":"Aussem"
+},
+ {"name":"GRAISEARCH, Use of Graphics Rendering and Artificial Intelligence for Improved Mobile Search Capabilities ",
+"description":"GRAISEARCH EU FP7 - Call FP7-PEOPLE-2013-IAPP - Marie Curie (2014-2018) Use of Graphics Rendering and Artificial Intelligence for Improved Mobile Search Capabilities : GRAISearch is an Industry-Academia Partnerships and Pathways project (IAPP) aiming at transferring knowledge from Academia to Industries. It is also a support for training and career development of researchers (Marie Curie). A Web startup, Tapastreet Ltd, as well as two academic institutions, INSA de Lyon (LIRIS UMR CNRS 5205) and Trinity College Dublin (TCD) for their knwoledge resp. in Data science & Vizualization, are involved. The goal is to transfer recent technologies from research on video summarization, 3D scene reconstruction, data mining and event detection from social media, into the products of Tapastreet LTD. Transfert is made also via 20 months mobilities between any pairs of the three partners.",
+"start":2014,
+"end":2018,
+ "funding":"FP7",
+ "budget_k":150,
+ "who":"Robardet",
+  "partners":"Tapastreet,Trinity College Dublin"
+},
 {"name":"BITUNAM, BITcoin User Network Analysis and Mining",
 "description":"BITUNAM stands for Bitcoin User Network Analysis and Mining.<br> It is a project funded by the ANR, French National Research Agency, as a 42 months JCJC program (young researcher program). The page of the project can be found <a href='http://cazabetremy.fr/BITUNAM.html'>here</a>.",
 "start":2018,
