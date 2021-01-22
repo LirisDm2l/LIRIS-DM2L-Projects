@@ -13,7 +13,7 @@
 "description":"https://geode-project.github.io/ <br>Le projet interdisciplinaire GEODE (2020-2024) financé par le LabEX ASLAN réunit des chercheurs en linguistique, informatique et géographie des laboratoires ICAR, LIRIS et EVS. Ce projet fait suite au projet GéoDISCO (2019-2020) financé par la MSH Lyon St-Etienne. Notre objectif est d’étudier dans un corpus de quatre encyclopédies françaises les changements survenus dans les discours géographiques entre 1750 et nos jours. Pour cela, nous nous aiderons des méthodes de classification semi-supervisée des textes, de génération de modèles de langues et de repérage automatique de routines discursives. ",
 "start":2020,
 "end":2024,
- "funding":"LABEX",
+ "funding":"ASLAN",
  "budget_k":150,
  "who":"Moncla",
    "partners":"Laboratoire de Linguistique Formelle, The Alan Turing Institute, Laboratoire de linguistique et didactique des langues étrangères et maternelles, UMR 5600 ENVIRONNEMENT VILLE SOCIÉTÉ, ICAR"
