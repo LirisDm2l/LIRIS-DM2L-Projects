@@ -2,6 +2,7 @@
 
 ## Exceptional Model Mining meets Multi-objective Optimization
 **Day and Time**: February 5, 13h
+
 **Speaker**: Alexandre Millot, DM2L
 
 **Abstract** : 
@@ -10,6 +11,7 @@ Exceptional Model Mining (EMM) is a local pattern mining framework that generali
 ----
 ## Recherche et développement de nouvelles méthodes AIOps pour la maintenance préventive d’un grand parc de serveurs d’applications.
 **Day and Time**:January 29, 2021, 13h
+
 **Speaker**: Youcef Remil, DM2L/Infologic
 
 **Abstract**: 
