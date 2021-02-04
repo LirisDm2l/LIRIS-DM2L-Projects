@@ -1,6 +1,6 @@
 
 
-Exceptional Model Mining meets Multi-objective Optimization
+## Exceptional Model Mining meets Multi-objective Optimization
 
 **Day and Time**: January 22021, 13h
 
