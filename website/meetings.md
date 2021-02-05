@@ -78,51 +78,60 @@ To assess the added-value of one or our algorithms, we propose a use case of gam
 
 ---
 ###  Graph Neural Networks and an application to traffic speed prediction
+
 **Day and Time**: June 25, 2020, 16h
+
 **Speaker**: Fabio Mensi
 
 ---
 ### Word embeddings et Deep Learning pour la segmentation automatique de textes et l’extraction d’informations géographiques. 
+
 **Day and Time**: June 18, 2020, 16h
+
 **Speaker**: Hussam Ghanem
 
 ---
 ### Classification des entités du réseau de Bitcoin
+
 **Day and Time**: June 11, 2020, 16h
+
 **Speaker**: Théo Rabut
 
 ---
 ### Détection de communautés dans les graphes dynamiques
+
 **Day and Time**: June 4, 2020, 16h
+
 **Speaker**: Fabrice Lécuyer 
 
 ---
-### 
-**Day and Time**: 
-
-**Speaker**: 
-
----
 ### Vers une identification des utilisateurs Bitcoin
+
 **Day and Time**: May 28, 2020, 16h
+
 **Speaker**: Rafael Ramos Tubino, D2ML
 
 
 ---
 ### Approches ML pour la prévision des prix de l’électricité sur le marché européen
+
 **Day and Time**: May 14, 2020, 16h
+
 **Speaker**: Léonard Tschora, DM2L/BCM Energy
 
 
 ---
 ### Contribution à la découverte de sous-groupes corrélés : Application à l’analyse des systèmes territoriaux et des réseaux alimentaires
+
 **Day and Time**: May 7, 2020, 16h
+
 **Speaker**: Mohamed Ali Hammal, DM2L
 
 
  
 ---
 ### Comparaison de modèles statistiques de graphe
+
 **Day and Time**: April 30, 2020, 16h
 
 **Speaker**: Louis Duvivier, DM2L
@@ -134,7 +143,9 @@ Dans cette présentation, je présenterai plusieurs pistes pour tenter de résou
 
 ---
 ### Exploitation de l'information géographique dans les données textuelles hétérogènes
+
 **Day and Time**: April 17, 2020, 16h
+
 **Speaker**: Jacques Fize, DM2L
 
 **Abstract**: Dans la communauté des sciences de l'information géographique (ou GIS), il existe un sous-domaine particulier qui se focalise sur l'exploitation de l'information géographique dans les données textuelles (news, réseaux sociaux, documents historiques, etc.). Dans une première partie, je présenterai les travaux menées durant ma thèse sur le thème de la mise en correspondance de données textuelles hétérogènes fondée sur la spatialité. Puis, dans une seconde partie je détaillerai les travaux en cours sur le geocoding réalisés dans le cadre du projet HextGEO dont l’objectif est de concevoir des modèles et de développer une plateforme pour extraire et analyser les informations géographiques présentes dans des données textuelles hétérogènes. 
