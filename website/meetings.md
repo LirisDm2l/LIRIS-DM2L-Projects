@@ -28,7 +28,23 @@ Ces dernière années, les systèmes de recommandation ont reçu beaucoup d'atte
 Dans cette thèse, nous étudions la recommandation séquentielle qui vise à prédire le prochain article/action de l'utilisateur à partir des retours implicites des utilisateurs. Notre principale contribution, REBUS, est un nouveau modèle dans lequel seuls les items sont projetés dans un espace euclidien d'une manière qui intègre et unifie les préférences de l'utilisateur et la dynamique séquentielle. Pour saisir la dynamique séquentielle, REBUS utilise des séquences fréquentes afin de capturer des chaînes de Markov d'ordre personnalisé. Nous avons mené une étude empirique approfondie et démontré que notre modèle surpasse les performances des différents modèles de l’état de l’art, en particulier sur des jeux de données éparses. Nous avons également intégré REBUS dans myCADservices, une plateforme collaborative de la société française Visiativ. Nous présentons notre retour d'expérience sur cette mise en production du fruit de nos travaux de recherche.
 Enfin, nous avons proposé une nouvelle approche pour expliquer les recommandations fournies aux utilisateurs. Le fait de pouvoir expliquer une recommandation permet de contribuer à accroître la confiance qu'un utilisateur peut avoir dans un système de recommandation. Notre approche est basée sur la découverte de sous-groupes pour fournir des explications interprétables d'une recommandation pour tous types de modèles qui utilisent comme données d’entrée les retours implicites des utilisateurs.
 
+---
+### Some challenges surrounding recent advances in computational social sciences
+**Day and Time**:December 11, 2020, 11h
 
+**Speaker**: Pedro Ramaciotti, Medialab Science Po
+
+**Abstract**:  At the interface between sociology, mathematics, political, and computer science,
+computational social science seeks to match concepts from research questions in the humanities, 
+to computational methods and quantifiable measures.
+One prolific area of research is the mining of opinions and ideologies
+from social networks for the study of phenomena such as polarization or fragmentation (the so-called bubbles).
+In this brief presentation, we will analyze case studies in ideology mining on social networks
+ in order to identify promising areas of collaboration with computer sciences.
+In particular, we will examine the case of the extraction and validation of ideologies on Twitter in France 
+in connection with different research programs in political sciences. This will provide the setting
+for an exploration into possible data mining research programs regarding multi-dimensional network scaling and 
+graph models for the study of social networks and ideologies.
 
 
 
