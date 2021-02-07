@@ -93,12 +93,33 @@
 "webpage":"http://liris.cnrs.fr/membres?idn=fperraud"
 
 },
+ {"name":"Youcef Remil",
+"status":"PHD",
+"affiliation":"INSA",
+"keywords":"Predictive maintenance",
+"photo":"",
+"webpage":" https://liris.cnrs.fr/page-membre/luca-veyrin"
+},
+ {"name":"Luca Veyrin",
+"status":"PHD",
+"affiliation":"INSA",
+"keywords":"Explainable IA, Data Mining",
+"photo":"",
+"webpage":" https://liris.cnrs.fr/page-membre/luca-veyrin"
+},
  {"name":"Rafael Ramos Tubino",
 "status":"PHD",
 "affiliation":"UCBL",
 "keywords":"Cryptocurrencies,Machine Learning on Graphs",
 "photo":"http://www.magicianpalace.com/images/rqktzyq8h40g.jpg",
 "webpage":"https://liris.cnrs.fr/page-membre/rafael-ramos-tubino"
+},
+ {"name":"Alexandre Millot",
+"status":"PHD",
+"affiliation":"INSA",
+"keywords":"Urban Farming, Pattern Mining",
+"photo":"",
+"webpage":"https://liris.cnrs.fr/page-membre/alexandre-millot"
 },
  {"name":"Louis Duvivier",
 "status":"PHD",
