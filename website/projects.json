@@ -20,8 +20,8 @@
 },
 {"name":"CARTIE",
 "description":"Ce projet financé par le LabEx ASLAN a pour but le financement d'un stage de master. Le travail s'intéresse à l'analyse de corpus mêlant de façon hybride approches symboliques et statistiques. Notre objectif est le développement et l’expérimentation d’algorithmes statistiques d’intelligence artificielle afin de construire, en nous fondant sur des approches statistiques, une représentation sémantique des propos tenus dans les articles encyclopédiques. Cela doit nous permettre de classer, comparer et analyser ces articles avec comme premier point d’entrée les articles géographiques.",
-"start":2019,
-"end":2020,
+"start":2020,
+"end":2021,
  "funding":"ASLAN",
  "budget_k":3,
  "who":"Moncla"
