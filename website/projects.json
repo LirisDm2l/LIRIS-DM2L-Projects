@@ -10,14 +10,29 @@
 
 },
  {"name":"GEODE, Encyclopedic geographical discourse",
-"description":"https://geode-project.github.io/ <br>Le projet interdisciplinaire GEODE (2020-2024) financé par le LabEX ASLAN réunit des chercheurs en linguistique, informatique et géographie des laboratoires ICAR, LIRIS et EVS. Ce projet fait suite au projet GéoDISCO (2019-2020) financé par la MSH Lyon St-Etienne. Notre objectif est d’étudier dans un corpus de quatre encyclopédies françaises les changements survenus dans les discours géographiques entre 1750 et nos jours. Pour cela, nous nous aiderons des méthodes de classification semi-supervisée des textes, de génération de modèles de langues et de repérage automatique de routines discursives. ",
+"description":"https://geode-project.github.io/ <br>Le projet interdisciplinaire GEODE (2020-2024) financé par le LabEX ASLAN (https://aslan.universite-lyon.fr/projets-finances-par-aslan/projet-geode-173466.kjsp) réunit des chercheurs en linguistique, informatique et géographie des laboratoires ICAR, LIRIS et EVS. Ce projet fait suite au projet GéoDISCO (2019-2020) financé par la MSH Lyon St-Etienne. Notre objectif est d’étudier dans un corpus de quatre encyclopédies françaises les changements survenus dans les discours géographiques entre 1750 et nos jours. Pour cela, nous nous aiderons des méthodes de classification semi-supervisée des textes, de génération de modèles de langues et de repérage automatique de routines discursives. ",
 "start":2020,
 "end":2024,
  "funding":"ASLAN",
- "budget_k":150,
+ "budget_k":200,
  "who":"Moncla",
    "partners":"Laboratoire de Linguistique Formelle, The Alan Turing Institute, Laboratoire de linguistique et didactique des langues étrangères et maternelles, UMR 5600 ENVIRONNEMENT VILLE SOCIÉTÉ, ICAR"
-
+},
+{"name":"CARTIE",
+"description":"Ce projet financé par le LabEx ASLAN a pour but le financement d'un stage de master. Le travail s'intéresse à l'analyse de corpus mêlant de façon hybride approches symboliques et statistiques. Notre objectif est le développement et l’expérimentation d’algorithmes statistiques d’intelligence artificielle afin de construire, en nous fondant sur des approches statistiques, une représentation sémantique des propos tenus dans les articles encyclopédiques. Cela doit nous permettre de classer, comparer et analyser ces articles avec comme premier point d’entrée les articles géographiques.",
+"start":2019,
+"end":2020,
+ "funding":"ASLAN",
+ "budget_k":3,
+ "who":"Moncla"
+},
+{"name":"HextGEO",
+"description":"Conception de méthodes combinant TAL et Data Mining pour le traitement et l'analyse d'informations géographiques. ",
+"start":2019,
+"end":2020,
+ "funding":"IDEX",
+ "budget_k":54,
+ "who":"Moncla"
 },
  {"name":"VEL'INNOV, Les vélos en libre service automatisé. Un système socio-technique innovant et ses appropriations sociales",
 "description":"",
