@@ -65,9 +65,10 @@
 {"name":"Ludovic Moncla",
 "status":"MDC",
 "affiliation":"INSA",
-"keywords":"",
-"photo":"https://media.licdn.com/dms/image/C5103AQGQ8fsKFJwEYw/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=Ibc2UoUUyKB8xtdd3ul2nEkGcpUPR4KQlyzZhxfep2Y",
-"webpage":"https://lmoncla.ddns.net"
+"keywords":"Geographic Information Retrieval, Natural Language Processing",
+"photo":"https://ludovicmoncla.github.io/images/profile.jpg",
+"webpage":"https://ludovicmoncla.github.io",
+ "twitter":"https://twitter.com/MonclaLudovic"
 },
 {"name":"Mehdi Kaytoue",
 "status":"MDC",
@@ -127,6 +128,13 @@
 "keywords":"Graph models, Community Detection",
 "photo":"",
 "webpage":"https://liris.cnrs.fr/page-membre/louis-duvivier"
+},
+ {"name":"Alice Brenon",
+"status":"PHD",
+"affiliation":"CNRS",
+"keywords":"Information retrieval, Natural Language Processing",
+"photo":"",
+"webpage":"https://liris.cnrs.fr/page-membre/alice-brenon"
 },
  {"name":"Jacques Fize",
 "status":"Postdoc",
