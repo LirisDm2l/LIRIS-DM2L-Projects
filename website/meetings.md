@@ -1,3 +1,9 @@
+###  Identifying the right time-scale for dynamic networks: an overview.
+**Day and Time**: February 26, 12h45
+
+**Speaker**: Alessandro Chiappori (internship student@DM2L)
+
+**Abstract** : In this short presentation, we will present a brief state of the art of existing methods to transform a graph seen as a sequence of time-stamped interactions (link stream) into sequences of snapshots. We are in particular interested in the scalability of those approaches, and on their capacity to discover automatically the right “window size” for aggregation. Our next step is to propose our own method, so, any feedback or idea will be greatly appreciated.
 
 
 ### Exceptional Model Mining meets Multi-objective Optimization
