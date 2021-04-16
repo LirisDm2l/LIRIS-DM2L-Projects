@@ -1,3 +1,10 @@
+###  Graph Neural Networks: an overview and how to explain them.
+**Day and Time**: April 16, 10h00
+
+**Speaker**: Luca Veyrin-Forrer, DM2L
+**Abstract** : The presentation will first begin with an overview of GNNs. Then, we will present how to explain them. Especially, how we can take benefit from pattern mining techniques to identify set of activations and leverage them for explaining the GNNs' decisions.
+
+
 ###  Identifying the right time-scale for dynamic networks: an overview.
 **Day and Time**: February 26, 12h45
 
