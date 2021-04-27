@@ -1,6 +1,8 @@
 ### Leveraging machine learning and explainable AI to better understand exposomic data.
 **Day and Time**: April 29, 10h30
+
 **Speaker**: Jean-Baptiste Guimbaud, DM2L/Meersens
+
 **Abstract** : Ces travaux préliminaires à une thèse portent sur l'utilisation de méthodes de machine learning avancées afin de mieux comprendre le lien et les interactions entre les facteurs environnementaux (pollution de l'air, alimentation etc..) et la santé.
 
 ###  Graph Neural Networks: an overview and how to explain them.
