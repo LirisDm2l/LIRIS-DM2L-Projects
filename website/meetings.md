@@ -1,3 +1,11 @@
+### Feature-Rich Network Models: Methods and Applications
+**Day and Time**: May 07, 11h00
+
+**Speaker**: Salvatore Citraro, Univ. Pisa
+
+**Abstract** : While modeling real-world phenomena as complex networks, domain-specific information that characterizes the uniqueness of the object of study (e.g., the properties of the unit elements that compose the system, the duration of interactions, etc.) is discarded to favor a simple and neat picture through which analyze the universal principles hidden in a wide variety of systems. All such domain-specific elements can be integrated by leveraging the framework of feature-rich networks, i.e., a recent umbrella expression that generalizes several models with the aim to add more information to the topology of a graph (e.g., node-attributed or dynamic networks). As in their original definition, “[such models] can support innovative methods able to exploit the full potential of mining complex network structures in domain-specific applications.” My work aims to define new methodologies for feature-rich networks as well as domain-specific applications within which apply the potential of this paradigm of research. In this talk, I will summarize the main goals of my Ph.D. project, describing (i) some methods we developed for improving several tasks in feature-rich networks (e.g., Community Discovery in node-attributed graphs), and (ii) some case studies for enhancing the knowledge of a system through this integration of topology and features.
+
+
 ### Leveraging machine learning and explainable AI to better understand exposomic data.
 **Day and Time**: April 29, 10h30
 
