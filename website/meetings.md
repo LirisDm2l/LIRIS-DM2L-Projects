@@ -1,3 +1,10 @@
+### Apprentissage multi–vues pour l’optimisation de la durée de vie des profils d'outils de roulage à froid
+
+**Day and Time**: January 21, 15h00
+
+**Speaker**: Mehdi Hennequin, PhD student, DM2L Team
+
+
 ### Feature-Rich Network Models: Methods and Applications
 **Day and Time**: May 07, 11h00
 
