@@ -4,7 +4,7 @@
 
 **Speaker**: Mehdi Hennequin, PhD student, DM2L Team
 
-
+---
 ### Feature-Rich Network Models: Methods and Applications
 **Day and Time**: May 07, 11h00
 
@@ -12,7 +12,7 @@
 
 **Abstract** : While modeling real-world phenomena as complex networks, domain-specific information that characterizes the uniqueness of the object of study (e.g., the properties of the unit elements that compose the system, the duration of interactions, etc.) is discarded to favor a simple and neat picture through which analyze the universal principles hidden in a wide variety of systems. All such domain-specific elements can be integrated by leveraging the framework of feature-rich networks, i.e., a recent umbrella expression that generalizes several models with the aim to add more information to the topology of a graph (e.g., node-attributed or dynamic networks). As in their original definition, “[such models] can support innovative methods able to exploit the full potential of mining complex network structures in domain-specific applications.” My work aims to define new methodologies for feature-rich networks as well as domain-specific applications within which apply the potential of this paradigm of research. In this talk, I will summarize the main goals of my Ph.D. project, describing (i) some methods we developed for improving several tasks in feature-rich networks (e.g., Community Discovery in node-attributed graphs), and (ii) some case studies for enhancing the knowledge of a system through this integration of topology and features.
 
-
+---
 ### Leveraging machine learning and explainable AI to better understand exposomic data.
 **Day and Time**: April 29, 10h30
 
@@ -20,13 +20,14 @@
 
 **Abstract** : Ces travaux préliminaires à une thèse portent sur l'utilisation de méthodes de machine learning avancées afin de mieux comprendre le lien et les interactions entre les facteurs environnementaux (pollution de l'air, alimentation etc..) et la santé.
 
+---
 ###  Graph Neural Networks: an overview and how to explain them.
 **Day and Time**: April 16, 10h00
 
 **Speaker**: Luca Veyrin-Forrer, DM2L
 **Abstract** : The presentation will first begin with an overview of GNNs. Then, we will present how to explain them. Especially, how we can take benefit from pattern mining techniques to identify set of activations and leverage them for explaining the GNNs' decisions.
 
-
+---
 ###  Identifying the right time-scale for dynamic networks: an overview.
 **Day and Time**: February 26, 12h45
 
@@ -34,7 +35,7 @@
 
 **Abstract** : In this short presentation, we will present a brief state of the art of existing methods to transform a graph seen as a sequence of time-stamped interactions (link stream) into sequences of snapshots. We are in particular interested in the scalability of those approaches, and on their capacity to discover automatically the right “window size” for aggregation. Our next step is to propose our own method, so, any feedback or idea will be greatly appreciated.
 
-
+---
 ### Exceptional Model Mining meets Multi-objective Optimization
 **Day and Time**: February 5, 13h
 
