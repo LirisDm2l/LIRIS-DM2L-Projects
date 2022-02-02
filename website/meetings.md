@@ -1,3 +1,13 @@
+### Retour sur la conférence EGC
+
+**Day and Time**: February 11 2022, 14h00
+
+L'équipe DM2L à obtenu deux prix du meilleur article à la conférence EGC 2022.
+Lors de cette réunion d'équipe, les lauréats de ces prix nous présenterons leur travaux. Les travaux présentés seront les suivant:
+
+* Qu’est-ce que mon GNN capture vraiment ? Exploration des représentations internes d’un GNN - Luca Veyrin-Forrer, Ataollah Kamal, Stefan Duffner, Marc Plantevit and Celine Robardet
+* Classification automatique d’articles encyclopédiques - Ludovic Moncla, Khaled Chabane and Alice Brenon
+---
 ### Apprentissage multi–vues pour l’optimisation de la durée de vie des profils d'outils de roulage à froid
 
 **Day and Time**: January 21 2022, 15h00
