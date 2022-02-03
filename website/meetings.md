@@ -1,6 +1,6 @@
 ### Retour sur la conférence EGC
 
-**Day and Time**: February 11 2022, 14h00
+**Day and Time**: February 11 2022, 14h00 - TD11
 
 L'équipe DM2L à obtenu deux prix du meilleur article à la conférence EGC 2022.
 Lors de cette réunion d'équipe, les lauréats de ces prix nous présenterons leur travaux. Les travaux présentés seront les suivant:
