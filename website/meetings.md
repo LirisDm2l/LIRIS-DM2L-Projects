@@ -7,6 +7,7 @@ Lors de cette réunion d'équipe, les lauréats de ces prix nous présenterons l
 
 * Qu’est-ce que mon GNN capture vraiment ? Exploration des représentations internes d’un GNN - Luca Veyrin-Forrer, Ataollah Kamal, Stefan Duffner, Marc Plantevit and Celine Robardet
 * Classification automatique d’articles encyclopédiques - Ludovic Moncla, Khaled Chabane and Alice Brenon
+
 ---
 ### Apprentissage multi–vues pour l’optimisation de la durée de vie des profils d'outils de roulage à froid
 
