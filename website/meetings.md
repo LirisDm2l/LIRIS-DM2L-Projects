@@ -1,5 +1,16 @@
 ### Retour sur la conférence EGC
 
+**Day and Time**: March 25 2022, 13h00
+
+**Speaker**: Maelle Moranges, PhD student, DM2L Team/CRNL (Centre de Recherche en Neuroscience de Lyon)
+
+Presentation of her PhD Thesis topic and results. 
+Her presentation at MT180: https://youtube.com/playlist?list=PLleLO21NXvotYus4w9yvg8FUVR33qrD44
+
+---
+
+### Retour sur la conférence EGC
+
 **Day and Time**: February 11 2022, 14h00 - TD11
 
 L'équipe DM2L à obtenu deux prix du meilleur article à la conférence EGC 2022.
@@ -200,4 +211,4 @@ Le geocoding regroupe les techniques permettant d'associer des coordonnées à u
 
 
 
-
+To update this page : https://github.com/Yquetzal/LIRIS-DM2L-Projects
