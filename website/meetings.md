@@ -1,4 +1,4 @@
-### Retour sur la conférence EGC
+### Presentation by Maelle Moranges
 
 **Day and Time**: March 25 2022, 13h00
 
