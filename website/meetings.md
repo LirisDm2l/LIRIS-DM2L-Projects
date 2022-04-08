@@ -1,4 +1,11 @@
-### Presentation by Maelle Moranges
+### Introduction to ML improved constraint programming
+
+**Day and Time**: April 8 2022, 13h00
+
+**Speaker**: Thibaut CHATAING
+
+---
+### Analysis by Artificial Intelligence of the emotional variability and neurophysiological variability in olfactive perception
 
 **Day and Time**: March 25 2022, 13h00
 
