@@ -28,7 +28,7 @@ Lors de cette réunion d'équipe, les lauréats de ces prix nous présenterons l
 
 ---
 ### Feature-Rich Network Models: Methods and Applications
-**Day and Time**: May 07, 11h00
+**Day and Time**: May 07, 2021, 11h00
 
 **Speaker**: Salvatore Citraro, Univ. Pisa
 
@@ -36,7 +36,7 @@ Lors de cette réunion d'équipe, les lauréats de ces prix nous présenterons l
 
 ---
 ### Leveraging machine learning and explainable AI to better understand exposomic data.
-**Day and Time**: April 29, 10h30
+**Day and Time**: April 29 2021, 10h30
 
 **Speaker**: Jean-Baptiste Guimbaud, DM2L/Meersens
 
@@ -44,14 +44,14 @@ Lors de cette réunion d'équipe, les lauréats de ces prix nous présenterons l
 
 ---
 ###  Graph Neural Networks: an overview and how to explain them.
-**Day and Time**: April 16, 10h00
+**Day and Time**: April 16 2021, 10h00
 
 **Speaker**: Luca Veyrin-Forrer, DM2L
 **Abstract** : The presentation will first begin with an overview of GNNs. Then, we will present how to explain them. Especially, how we can take benefit from pattern mining techniques to identify set of activations and leverage them for explaining the GNNs' decisions.
 
 ---
 ###  Identifying the right time-scale for dynamic networks: an overview.
-**Day and Time**: February 26, 12h45
+**Day and Time**: February 26 2021, 12h45
 
 **Speaker**: Alessandro Chiappori (internship student@DM2L)
 
@@ -59,7 +59,7 @@ Lors de cette réunion d'équipe, les lauréats de ces prix nous présenterons l
 
 ---
 ### Exceptional Model Mining meets Multi-objective Optimization
-**Day and Time**: February 5, 13h
+**Day and Time**: February 5 2021, 13h
 
 **Speaker**: Alexandre Millot, DM2L
 
@@ -68,7 +68,7 @@ Exceptional Model Mining (EMM) is a local pattern mining framework that generali
 
 ----
 ### Recherche et développement de nouvelles méthodes AIOps pour la maintenance préventive d’un grand parc de serveurs d’applications.
-**Day and Time**:January 29, 2021, 13h
+**Day and Time**:January 29 2021, 13h
 
 **Speaker**: Youcef Remil, DM2L/Infologic
 
