@@ -116,14 +116,14 @@
 "webpage":"https://liris.cnrs.fr/page-membre/rafael-ramos-tubino"
 },
  {"name":"Alexandre Millot",
-"status":"PHD",
+"status":"PM",
 "affiliation":"INSA",
 "keywords":"Urban Farming, Pattern Mining",
 "photo":"",
 "webpage":"https://liris.cnrs.fr/page-membre/alexandre-millot"
 },
  {"name":"Louis Duvivier",
-"status":"PHD",
+"status":"PM",
 "affiliation":"INSA",
 "keywords":"Graph models, Community Detection",
 "photo":"",
@@ -137,7 +137,7 @@
 "webpage":"https://liris.cnrs.fr/page-membre/alice-brenon"
 },
  {"name":"Jacques Fize",
-"status":"Postdoc",
+"status":"PM",
 "affiliation":"INSA",
 "keywords":"Text-Mining, Information Retrieval, Geographic Information Retrieval",
 "photo":"https://jacquesfize.com/img/photo.jpg",
@@ -149,5 +149,12 @@
 "keywords":"",
 "photo":"",
 "webpage":"https://liris.cnrs.fr/page-membre/aimene-belfodil"
+},
+ {"name":"Jean-Baptiste Guimbaud",
+"status":"PHD",
+"affiliation":"INSA-Meersens",
+"keywords":"Exposom,XAI",
+"photo":"",
+"webpage":"https://liris.cnrs.fr/page-membre/jean-baptiste-guimbaud"
 }
 ]
