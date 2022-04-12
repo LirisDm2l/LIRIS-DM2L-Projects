@@ -1,4 +1,7 @@
-{"Professors":[
+[
+  {
+    "category": "Professors",
+    "people": [
 {"name":"Céline Robardet",
 "status":"PR",
 "affiliation":"INSA",
@@ -19,8 +22,11 @@
 "keywords":"Causal inference,bayesian networks",
 "photo":"http://perso.univ-lyon1.fr/alexandre.aussem/design/aussem.jpg",
 "webpage":"http://perso.univ-lyon1.fr/alexandre.aussem/teaching.html"
-}],
- "Maître de Conférences (Associate Professors)":[
+}
+    ]},
+ {
+    "category": "Maître de Conférences (Associate Professors)",
+    "people": [
  {"name":"Marc Plantevit",
 "status":"MDC",
 "affiliation":"UCBL",
@@ -92,8 +98,11 @@
 "keywords":"FCA, pattern mining, video game analytics",
 "photo":"",
 "webpage":"http://liris.cnrs.fr/membres?idn=fperraud"
-}],
- "PhD Students":[
+}]
+ },
+ {
+    "category": "PhD Students",
+    "people": [
    {"name":"Alice Brenon",
 "status":"PHD",
 "affiliation":"CNRS",
@@ -128,8 +137,11 @@
 "keywords":"Exposom,XAI",
 "photo":"",
 "webpage":"https://liris.cnrs.fr/page-membre/jean-baptiste-guimbaud"
-}],
- "Past Members":[
+}]
+   },
+ {
+    "category": "Past Members",
+    "people": [
  {"name":"Alexandre Millot",
 "status":"PM",
 "affiliation":"INSA",
@@ -159,3 +171,4 @@
 "webpage":"https://liris.cnrs.fr/page-membre/aimene-belfodil"
 }]
 }
+ ]
