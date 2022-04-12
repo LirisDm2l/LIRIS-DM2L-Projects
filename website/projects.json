@@ -152,5 +152,15 @@
  "who":"Cazabet",
  "partners":"Jérôme Blanc, Oriane Lafuente, Laboratoire Triangle ",
   "industrial":false
+},
+  {"name":"Predicting and explaining health trajectories using omics data and XAI",
+"description":"In this PhD thesis involving the company Meersens and the ISGLobal lab, we aim at understanding how we can leverage omics data, and in parituclar exposomic data, to predict health outcomes and heatlh trajectories. The objective is to use Explainable AI to leverage the full power of deep neural networks for prediction, while still being able to explain our prediction.",
+"start":2021,
+"end":2024,
+ "funding":"CIFRE",
+ "budget_k":200,
+ "who":"Cazabet, Plantevit",
+ "partners":"Meersens, ISGlobal",
+  "industrial":true
 }
 ]
