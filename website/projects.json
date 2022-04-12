@@ -142,5 +142,15 @@
  "budget_k":5,
  "who":"Cazabet",
   "industrial":false
+},
+   {"name":"Cryptocurrency and other alternative currencies",
+"description":"Project to organize a 2 days event + Hackaton",
+"start":2022,
+"end":2023,
+ "funding":"IXXI",
+ "budget_k":5,
+ "who":"Cazabet",
+ "partners":"Jérôme Blanc, Oriane Lafuente, Laboratoire Triangle ",
+  "industrial":false
 }
 ]
