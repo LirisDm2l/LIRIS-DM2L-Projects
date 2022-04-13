@@ -24,7 +24,6 @@
  {
     "category": "Resident - Maître de Conférences (Associate Professors)",
     "people": [
- {
 {"name":"Haytham Elghazel",
 "affiliation":"UCBL",
 "keywords":"ensemble models, mixture models",
@@ -75,7 +74,6 @@
 "photo":"https://perso.liris.cnrs.fr/mplantev/doku/lib/exe/fetch.php?w=200&tok=34e843&media=moi.jpg",
 "webpage":"https://perso.liris.cnrs.fr/mplantev/doku/"
 },
-
 {"name":"Serge Fenet",
 "affiliation":"UCBL",
 "keywords":"modelling, simulation",
