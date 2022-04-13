@@ -22,14 +22,9 @@
 }
     ]},
  {
-    "category": "Maître de Conférences (Associate Professors)",
+    "category": "Resident - Maître de Conférences (Associate Professors)",
     "people": [
- {"name":"Marc Plantevit",
-"affiliation":"UCBL",
-"keywords":"Pattern mining,Preferences",
-"photo":"https://perso.liris.cnrs.fr/mplantev/doku/lib/exe/fetch.php?w=200&tok=34e843&media=moi.jpg",
-"webpage":"https://perso.liris.cnrs.fr/mplantev/doku/"
-},
+ {
 {"name":"Haytham Elghazel",
 "affiliation":"UCBL",
 "keywords":"ensemble models, mixture models",
@@ -41,12 +36,6 @@
 "keywords":"learning, topological models, spectral graphs",
 "photo":"",
 "webpage":"http://kbenabde.free.fr/bk/"
-},
-{"name":"Serge Fenet",
-"affiliation":"UCBL",
-"keywords":"modelling, simulation",
-"photo":"",
-"webpage":"http://liris.cnrs.fr/membres?idn=sfenet"
 },
 {"name":"Christophe Rigotti",
 "affiliation":"INSA",
@@ -67,6 +56,31 @@
 "photo":"https://ludovicmoncla.github.io/images/profile.jpg",
 "webpage":"https://ludovicmoncla.github.io",
  "twitter":"https://twitter.com/MonclaLudovic"
+},
+{"name":"Mehdi Kaytoue",
+"affiliation":"INSA",
+"keywords":"FCA, pattern mining, video game analytics",
+"photo":"",
+"webpage":"http://liris.cnrs.fr/mehdi.kaytoue/",
+ "twitter":"https://twitter.com/MehdiKaytoue"
+}
+]
+ },
+  {
+    "category": "External - Maître de Conférences (Associate Professors)",
+    "people": [
+ {"name":"Marc Plantevit",
+"affiliation":"UCBL",
+"keywords":"Pattern mining,Preferences",
+"photo":"https://perso.liris.cnrs.fr/mplantev/doku/lib/exe/fetch.php?w=200&tok=34e843&media=moi.jpg",
+"webpage":"https://perso.liris.cnrs.fr/mplantev/doku/"
+},
+
+{"name":"Serge Fenet",
+"affiliation":"UCBL",
+"keywords":"modelling, simulation",
+"photo":"",
+"webpage":"http://liris.cnrs.fr/membres?idn=sfenet"
 },
 {"name":"Mehdi Kaytoue",
 "affiliation":"INSA",
