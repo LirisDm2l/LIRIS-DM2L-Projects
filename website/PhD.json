@@ -1,0 +1,56 @@
+[{
+    "category": "PhD Students",
+    "people": [
+   {
+     "name":"Alice Brenon",
+"affiliation":"CNRS",
+"title":"Methods and tools for the diachronic study of geographic discourse in French encycopedia",
+"webpage":"https://liris.cnrs.fr/page-membre/alice-brenon"
+},
+ {"name":"Youcef Remil",
+"affiliation":"INSA",
+"title":"",
+"webpage":" https://liris.cnrs.fr/page-membre/luca-veyrin"
+},
+ {"name":"Luca Veyrin",
+"affiliation":"INSA",
+"title":"Explainable IA, Data Mining",
+"webpage":" https://liris.cnrs.fr/page-membre/luca-veyrin"
+},
+ {"name":"Rafael Ramos Tubino",
+"affiliation":"UCBL",
+"title":"Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies",
+"webpage":"https://liris.cnrs.fr/page-membre/rafael-ramos-tubino"
+},
+   {"name":"Jean-Baptiste Guimbaud",
+"affiliation":"INSA, ISGlobal, <a href='https://meersens.com'>Meersens</a>",
+"title":"Predicting and explaining health trajectories using omics data and XAI",
+"webpage":"https://liris.cnrs.fr/page-membre/jean-baptiste-guimbaud"
+}]
+   },
+ {
+    "category": "Past PhD students and Postdocs",
+    "people": [
+ {"name":"Alexandre Millot",
+"affiliation":"INSA",
+"title":"Exceptional model mining meets multi-objective optimization : Application to plant growth recipes in controlled environments",
+"webpage":"https://liris.cnrs.fr/page-membre/alexandre-millot"
+},
+ {"name":"Louis Duvivier",
+"status":"PM",
+"affiliation":"INSA",
+"title":"Automatic detection of the structure of interactions within complex systems using graph modelling and compression",
+"webpage":"https://liris.cnrs.fr/page-membre/louis-duvivier"
+},
+ {"name":"Jacques Fize",
+"affiliation":"INSA",
+"keywords":"Text-Mining, Information Retrieval, Geographic Information Retrieval",
+"webpage":"https://jacquesfize.com"
+},
+ {"name":"Aimene Belfodil",
+"affiliation":"",
+"title":"An order theoretic point-of-view on subgroup discovery",
+"webpage":"https://liris.cnrs.fr/page-membre/aimene-belfodil"
+}]
+}
+]
