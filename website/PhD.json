@@ -9,10 +9,10 @@
 "webpage":"https://liris.cnrs.fr/page-membre/alice-brenon"
 },
  {"name":"Youcef Remil",
-"affiliation":"INSA",
+"affiliation":"INSA, Infologic",
 "title":"Recherche et développement de nouvelles méthodes AIOps pour la maintenance prédictive d'un grand parc de serveurs d'applications",
 "webpage":" https://liris.cnrs.fr/page-membre/luca-veyrin",
-         "supervision":""
+         "supervision":"Mehdi Kaytoue, Jean-Francois Boulicaut"
 },
  {"name":"Luca Veyrin",
 "affiliation":"INSA",
