@@ -22,7 +22,7 @@
 }
     ]},
  {
-    "category": "Resident - Maître de Conférences (Associate Professors)",
+    "category": "Maître de Conférences (Associate Professors) - Resident",
     "people": [
 {"name":"Haytham Elghazel",
 "affiliation":"UCBL",
@@ -59,7 +59,7 @@
 ]
  },
   {
-    "category": "External - Maître de Conférences (Associate Professors)",
+    "category": "Maître de Conférences (Associate Professors) - External",
     "people": [
  {"name":"Marc Plantevit",
 "affiliation":"UCBL",
