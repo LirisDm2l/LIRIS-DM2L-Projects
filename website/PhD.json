@@ -31,6 +31,12 @@
 "title":"Predicting and explaining health trajectories using omics data and XAI",
 "webpage":"https://liris.cnrs.fr/page-membre/jean-baptiste-guimbaud",
          "supervision":"Rémy Cazabet, Marc Plantevit"
+},
+   {"name":"Thibaut CHATAING",
+"affiliation":"INSA, <a href='https://www.palo-it.com/fr/'>PALO IT</a>",
+"title":"Construction de modèles de classification supervisée à partir de données provenant d'un réseau d'experts",
+"webpage":"https://liris.cnrs.fr/page-membre/thibaut-chataing",
+         "supervision":"Céline Robardet, Marc Plantevit"
 }]
    },
  {
