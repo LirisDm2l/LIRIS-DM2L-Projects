@@ -2,11 +2,11 @@
   {
     "category": "Professors",
     "people": [
-{"name":"Céline Robardet",
-"affiliation":"INSA",
-"keywords":"Complex systems,Pattern mining",
-"photo":"https://perso.liris.cnrs.fr/celine.robardet/doc/celine_web.png",
-"webpage":"https://perso.liris.cnrs.fr/celine.robardet/"
+      {"name":"Alexandre Aussem",
+"affiliation":"UCBL",
+"keywords":"Causal inference,bayesian networks",
+"photo":"http://perso.univ-lyon1.fr/alexandre.aussem/design/aussem.jpg",
+"webpage":"http://perso.univ-lyon1.fr/alexandre.aussem/teaching.html"
 },
  {"name":"Jean-François Boulicaut",
 "affiliation":"INSA",
@@ -14,33 +14,22 @@
 "photo":"https://perso.liris.cnrs.fr/jean-francois.boulicaut/IF%20JFBoulicaut.JPG",
 "webpage":"https://perso.liris.cnrs.fr/jean-francois.boulicaut/"
 },
-  {"name":"Alexandre Aussem",
-"affiliation":"UCBL",
-"keywords":"Causal inference,bayesian networks",
-"photo":"http://perso.univ-lyon1.fr/alexandre.aussem/design/aussem.jpg",
-"webpage":"http://perso.univ-lyon1.fr/alexandre.aussem/teaching.html"
+{"name":"Céline Robardet",
+"affiliation":"INSA",
+"keywords":"Complex systems,Pattern mining",
+"photo":"https://perso.liris.cnrs.fr/celine.robardet/doc/celine_web.png",
+"webpage":"https://perso.liris.cnrs.fr/celine.robardet/"
 }
+  
     ]},
  {
     "category": "Maître de Conférences (Associate Professors) - Resident",
     "people": [
-{"name":"Haytham Elghazel",
-"affiliation":"UCBL",
-"keywords":"ensemble models, mixture models",
-"photo":"people-pics/haytham.jpeg",
-"webpage":"http://perso.univ-lyon1.fr/haytham.elghazel/"
-},
 {"name":"Khalid Benabdeslem",
 "affiliation":"UCBL",
 "keywords":"learning, topological models, spectral graphs",
 "photo":"people-pics/khalid.jpg",
 "webpage":"http://kbenabde.free.fr/bk/"
-},
-{"name":"Christophe Rigotti",
-"affiliation":"INSA",
-"keywords":"pattern mining, sequences, graphs",
-"photo":"people-pics/rigotti.png",
-"webpage":"http://liris.cnrs.fr/~crigotti/"
 },
 {"name":"Rémy Cazabet",
 "affiliation":"UCBL",
@@ -49,24 +38,30 @@
 "webpage":"http://cazabetremy.fr",
  "twitter":"https://twitter.com/Yquetzal"
 },
+      {"name":"Haytham Elghazel",
+"affiliation":"UCBL",
+"keywords":"ensemble models, mixture models",
+"photo":"people-pics/haytham.jpeg",
+"webpage":"http://perso.univ-lyon1.fr/haytham.elghazel/"
+},
 {"name":"Ludovic Moncla",
 "affiliation":"INSA",
 "keywords":"Geographic Information Retrieval, Natural Language Processing",
 "photo":"https://ludovicmoncla.github.io/images/profile.jpg",
 "webpage":"https://ludovicmoncla.github.io",
  "twitter":"https://twitter.com/MonclaLudovic"
+},
+{"name":"Christophe Rigotti",
+"affiliation":"INSA",
+"keywords":"pattern mining, sequences, graphs",
+"photo":"people-pics/rigotti.png",
+"webpage":"http://liris.cnrs.fr/~crigotti/"
 }
 ]
  },
   {
     "category": "Maître de Conférences (Associate Professors) - External",
     "people": [
- {"name":"Marc Plantevit",
-"affiliation":"UCBL",
-"keywords":"Pattern mining,Preferences",
-"photo":"https://perso.liris.cnrs.fr/mplantev/doku/lib/exe/fetch.php?w=200&tok=34e843&media=moi.jpg",
-"webpage":"https://perso.liris.cnrs.fr/mplantev/doku/"
-},
 {"name":"Serge Fenet",
 "affiliation":"UCBL",
 "keywords":"modelling, simulation",
@@ -91,6 +86,12 @@
 "keywords":"FCA, pattern mining, video game analytics",
 "photo":"",
 "webpage":"http://liris.cnrs.fr/membres?idn=fperraud"
+},
+      {"name":"Marc Plantevit",
+"affiliation":"UCBL",
+"keywords":"Pattern mining,Preferences",
+"photo":"https://perso.liris.cnrs.fr/mplantev/doku/lib/exe/fetch.php?w=200&tok=34e843&media=moi.jpg",
+"webpage":"https://perso.liris.cnrs.fr/mplantev/doku/"
 }]
  }
  ]
