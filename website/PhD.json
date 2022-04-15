@@ -1,13 +1,19 @@
 [{
     "category": "PhD Students",
     "people": [
-   {
-     "name":"Alice Brenon",
-"affiliation":"CNRS",
-       "supervision":"Frédérique Laforest, Ludovic Moncla, Denis Vigier",
-"title":"Methods and tools for the diachronic study of geographic discourse in French encycopedia",
-"webpage":"https://liris.cnrs.fr/page-membre/alice-brenon",
-       "depuis":"2021"
+   {"name":"Rafael Ramos Tubino",
+"affiliation":"UCBL",
+"title":"Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies",
+"webpage":"https://liris.cnrs.fr/page-membre/rafael-ramos-tubino",
+         "supervision":"Rémy Cazabet, Céline Robardet",
+  "depuis":"2019"
+},
+        {"name":"Luca Veyrin",
+"affiliation":"INSA",
+"title":"Explainable IA, Data Mining",
+"webpage":" https://liris.cnrs.fr/page-membre/luca-veyrin",
+         "supervision":"Céline Robardet, Marc Plantevit",
+  "depuis":"2019"
 },
  {"name":"Youcef Remil",
 "affiliation":"INSA, Infologic",
@@ -16,19 +22,13 @@
          "depuis":"2020",
          "supervision":"Mehdi Kaytoue, Jean-Francois Boulicaut"
 },
- {"name":"Luca Veyrin",
-"affiliation":"INSA",
-"title":"Explainable IA, Data Mining",
-"webpage":" https://liris.cnrs.fr/page-membre/luca-veyrin",
-         "supervision":"Céline Robardet, Marc Plantevit",
-  "depuis":"2019"
-},
- {"name":"Rafael Ramos Tubino",
-"affiliation":"UCBL",
-"title":"Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies",
-"webpage":"https://liris.cnrs.fr/page-membre/rafael-ramos-tubino",
-         "supervision":"Rémy Cazabet, Céline Robardet",
-  "depuis":"2019"
+ {
+     "name":"Alice Brenon",
+"affiliation":"CNRS",
+       "supervision":"Frédérique Laforest, Ludovic Moncla, Denis Vigier",
+"title":"Methods and tools for the diachronic study of geographic discourse in French encycopedia",
+"webpage":"https://liris.cnrs.fr/page-membre/alice-brenon",
+       "depuis":"2021"
 },
    {"name":"Jean-Baptiste Guimbaud",
 "affiliation":"INSA, ISGlobal, <a href='https://meersens.com'>Meersens</a>",
