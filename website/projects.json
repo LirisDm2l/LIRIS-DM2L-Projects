@@ -180,7 +180,8 @@
 "funding":"CIFRE",
 "who":"Robardet, Plantevit, Chataing",
 "partners":"PALO IT",
-"industrial":true
+"industrial":true,
+  "budget_k":200
 }
 ]
 
