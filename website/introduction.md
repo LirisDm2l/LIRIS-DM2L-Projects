@@ -1,3 +1,7 @@
+# Introducing the team
+
+DM2L is a team created in 2012 whose scientific activity is devoted to Knowledge Discovery from Data using automatic or semi-automatic techniques. This includes: data mining, machine learning, pattern recognition, statistical learning, data analysis, data archeology, etc. Its research interests are mainly data mining and machine learning.
+
 # Results
 
 Our results are theoretical, methodological, algorithmic, software, and applications. Our guiding principle is to try to help data owners throughout the interactive process of knowledge discovery from data. As these processes require the combination of a wide range of paradigms of description or induction (pattern extraction, classification, statistical learning, including Bayesian networks, set-methods, kernel methods, connectionist methods, etc.), DM2L team leverages ten permanent researchers whose computer skills are complementary. More specifically, the team is working on the following problems:
