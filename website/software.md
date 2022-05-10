@@ -74,8 +74,6 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
   * https://github.com/Yquetzal/tnetwork
   * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
 
-* __CCS2021__ the website of the Conference on Complex Systems 2021 (CCS2021): https://ccs2021.univ-lyon1.fr  
-
 # Chatbot
   * __chatbotinfo__  is a context aware  education chatbot based on hierarchical recurrent attention network. This chatbot is now online and answer to questions from applicants to the Master in Data Science of University CLaude Bernard Lyon 1.   
   * chatbotinfo.univ-lyon1.fr
