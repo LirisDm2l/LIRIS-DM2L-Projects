@@ -1,3 +1,11 @@
+### DM2L 2 day team seminars.
+Presentation of research activity by all available team members.
+
+Invitation of Julien Velcin and Adrien Guille from ERIC lab to present their research activity.
+
+![Tux, the Linux mascot](/pics/team2022.jpg)
+
+---
 ### Introduction to ML improved constraint programming
 
 **Day and Time**: April 8 2022, 13h00
