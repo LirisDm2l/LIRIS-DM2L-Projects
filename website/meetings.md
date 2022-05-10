@@ -3,7 +3,7 @@ Presentation of research activity by all available team members.
 
 Invitation of Julien Velcin and Adrien Guille from ERIC lab to present their research activity.
 
-![Team 2022](pics/team2022.jpg)
+![Team 2022](https://raw.github.com/Yquetzal/LIRIS-DM2L-Projects/master/website/pics/team2022.jpg)
 
 ---
 ### Introduction to ML improved constraint programming
