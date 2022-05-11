@@ -1,4 +1,4 @@
-### DM2L 2 day team seminars.
+### 2 days team seminar
 Presentation of research activity by all available team members.
 
 Invitation of Julien Velcin and Adrien Guille from ERIC lab to present their research activity.
