@@ -7,7 +7,8 @@
  "budget_k":1,
  "who":"Remy",
    "partners":"Laboratoire d’Ecologie Microbienne (UMR 5557), Institut des Sciences Analytiques (UMR 5280)"
-},{"name":"CovDyn, Covid Dynamics",
+},
+{"name":"CovDyn, Covid Dynamics",
 "description":"Simulation de propagation de l'épidémie de Covid-19. Etude des possibilités d'application des modèles compartimentaux pour capter les dynamiques de confinement et de déconfinement. Développement de modèles de simulation permettant d'étudier l'interaction entre différentes mesures (port de masque, distanciation, traçage des contacts, tests, isolement). Evaluation sur simulateur des stratégies vaccinales. Le projet est coordonné par Pascal Roy (Université Lyon 1, HCL, LBBE).",
 "start":2020,
 "end":2021,
@@ -18,7 +19,7 @@
 
 },
  {"name":"GEODE, Encyclopedic geographical discourse",
-"description":"https://geode-project.github.io/ <br>Le projet interdisciplinaire GEODE (2020-2024) financé par le LabEX ASLAN (https://aslan.universite-lyon.fr/projets-finances-par-aslan/projet-geode-173466.kjsp) réunit des chercheurs en linguistique, informatique et géographie des laboratoires ICAR, LIRIS et EVS. Ce projet fait suite au projet GéoDISCO (2019-2020) financé par la MSH Lyon St-Etienne. Notre objectif est d’étudier dans un corpus de quatre encyclopédies françaises les changements survenus dans les discours géographiques entre 1750 et nos jours. Pour cela, nous nous aiderons des méthodes de classification semi-supervisée des textes, de génération de modèles de langues et de repérage automatique de routines discursives. ",
+"description":"Le projet interdisciplinaire <a href='https://geode-project.github.io/'>GEODE</a> (2020-2024) financé par le <a href='https://aslan.universite-lyon.fr/projets-finances-par-aslan/projet-geode-173466.kjsp'>LabEx ASLAN</a> réunit des chercheurs en linguistique, informatique et géographie des laboratoires ICAR, LIRIS et EVS. Ce projet fait suite au projet GéoDISCO (2019-2020) financé par la MSH Lyon St-Etienne. Notre objectif est d’étudier dans un corpus de quatre encyclopédies françaises les changements survenus dans les discours géographiques entre 1750 et nos jours. Pour cela, nous nous aiderons des méthodes de classification semi-supervisée des textes, de génération de modèles de langues et de repérage automatique de routines discursives. ",
 "start":2020,
 "end":2024,
  "funding":"ASLAN",
