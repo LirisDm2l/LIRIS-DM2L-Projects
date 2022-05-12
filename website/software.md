@@ -81,6 +81,6 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
   * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
 
 # Chatbot
-  * __chatbotinfo__  is a context aware  education chatbot based on hierarchical recurrent attention network. This chatbot is now online and answer to questions from applicants to the Master in Data Science of University CLaude Bernard Lyon 1.   
+* __chatbotinfo__  is a context aware  education chatbot based on hierarchical recurrent attention network. This chatbot is now online and answer to questions from applicants to the Master in Data Science of University CLaude Bernard Lyon 1.   
   * http://chatbotinfo.univ-lyon1.fr
   * > [J-B. Aujogue and Alex Aussem. Hierarchical Recurrent Attention Networks for Context-Aware Education Chatbots. International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, July 14-19, 2019.]
