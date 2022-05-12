@@ -64,6 +64,12 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
   * https://anesbendimerad.github.io/EPCIS-Events-Generator-Based-On-OpenTTD/
   * [A. Bendimerad, V. Codocedo, J.-F. Boulicaut, M. Kaytoue. Generating EPCIS events data with the video game OpenTTD, 2016]
 
+# Geographic Information Retrieval
+
+* Deep Learning for Toponym Resolution. We propose to geocode place names (ie, toponyms) using the less information available (two place names, one to geocode and the second used as context) and rely on deep learning network architecture. The proposed architecture uses Ngram representation and colocation of toponyms in space and text for geocoding. 
+  * https://gitlab.liris.cnrs.fr/jfize/toponym-geocoding
+  * > [Fize, J., Moncla, L., & Martins, B. (2021). Deep Learning for Toponym Resolution: Geocoding Based on Pairs of Toponyms. ISPRS International Journal of Geo-Information, 10.]
+
 # Python library
 * __CDlib__ is a python library dedicated to the community detection problem on graphs. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
   * https://github.com/GiulioRossetti/cdlib
