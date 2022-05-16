@@ -183,6 +183,16 @@
 "partners":"PALO IT",
 "industrial":true,
   "budget_k":200
+},
+{"name":"Recherche et développement de nouvelles méthodes AIOps pour la maintenance prédictive d'un grand parc de serveurs d'applications",
+"description":"Le sujet de thèse visé ici s'inscrit dans le cadre d'un projet du groupe INFOLOGIC autour des problématiques d'exploitation des données de son système ERP (Enterprise Resource Planning), progiciel de gestion intégré, développé par la société. L''ERP regroupe l'ensemble des données d'une entreprise. De la liste de ses produits, aux nomenclatures (recettes de fabrication des produits agro-alimentaires), de la liste de ses clients aux process internes, l'ensemble des données de l'entreprise est stocké et conservé au sein de l'ERP. Avec le développement de systèmes tiers connectés (machines de production connectées, automates de suivi de production, systèmes logistiques, etc.), l'ERP s'enrichit encore de nouvelles données prises en continu. Pour autant, le monde de l'ERP exploite encore peu ces données, alors même que les techniques de Data Mining le lui permettraient, afin d'apporter une valeur différenciante à ses utilisateurs. Des usages comme la maintenance prédictive des systèmes de production, ou de l'ERP lui-même, la simulation ou la prévision de scénarios, l'aide à la saisie, ou encore la supervision d'un système de production, sont envisageables en utilisant les techniques d'IA sur les volumes de données de l'ERP. L'objectif principal de la thèse objet de ce dossier, est de concevoir et de mettre en oeuvre des méthodes d'intelligence artificielle afin d'automatiser au maximum le processus de maintenance préventive et corrective. La réalisation de ce projet nécessite de répondre à plusieurs problématiques complexes liées d'un côté à la nature et la quantité des données, et d'un autre côté aux contraintes applicatives. Les complexités et les enjeux liés à cette problématique fait d'elle un sujet de recherche très actif.",
+"start":2022,
+"end":2023,
+"funding":"CIFRE",
+"who":"Boulicaut, Kaytoue",
+"partners":"Infologic",
+"industrial":true,
+  "budget_k":45
 }
 ]
 
