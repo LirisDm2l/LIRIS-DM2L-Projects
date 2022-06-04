@@ -1,3 +1,14 @@
+### Maps as Data
+**Day and Time**: June 4 2022, 13h00
+
+**Speaker**: Katie McDonough
+
+Maps constitute a significant body of global cultural heritage, and the number of digitised maps is only growing. However, the lack of metadata makes the right maps hard to find, and the content of many collections remains opaque to researchers and the general public alike. Two interdisciplinary projects based at the Turing are working to solve these challenges. First, the digital history project Living with Machines has created a computer vision pipeline that enables researchers to ask questions of very large collections of maps: MapReader (https://github.com/Living-with-machines/MapReader). Our first experiments use 19th-century Ordnance Survey maps of the UK (https://arxiv.org/abs/2111.15592). A more recent spin-off project, Machines Reading Maps (https://www.turing.ac.uk/research/research-projects/machines-reading-maps), focuses on text on maps and is a collaboration with Yao-Yi Chiang (University of Minnesota) and others. This second project develops methods for a) collecting gold standard and training data using the annotation platform Recogito, and b) identifying text (“text spotting”), linking unique places named on maps to knowledge bases, and predicting a semantic type of named and generic places. 
+
+
+Katie McDonough completed a PhD in History at Stanford University. Before joining the Living with Machines project at The Alan Turing Institute in 2019, she taught or was a collaborator on digital projects at Stanford, Bates College, and Western Sydney University. At the Turing, she founded the Computer Vision for Digital Heritage Special Interest Group and is the UK PI on Machines Reading Maps. 
+
+---
 ### 2 days team seminar
 Presentation of research activity by all available team members.
 
