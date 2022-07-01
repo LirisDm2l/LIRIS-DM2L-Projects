@@ -1,3 +1,17 @@
+### Interns presentation
+**Day and Time**: July 1 2022, 12h30
+
+**Speaker 1**: Gérôme Ferrand   : Capter le rôle et l'influence d'un article scientifique au sein d'un réseau de citation enrichi par les contextes de citations.
+
+Résumé : De nombreux travaux proposent d'étudier la littérature scientifique par le biais de réseaux de citations. L'aspect innovant de notre contribution est d'offrir une contextualisation aux citations grâce à l'extraction d'indicateur sémantiques tel que la phrase au sein de laquelle la citation réside ou encore la section (de la structure IMRaD) où la citation est ancrée. Associées aux méta-données d'un article, nous verrons comment ces données peuvent nous renseigner sur la place qu'occupe ce dernier dans le réseau de citation.
+
+**Speaker 2**: Tiphaine Bourgeois   : Expérimentation d’un GNN pour la reconnaissance et la classification d’entités nommées
+
+Résumé : Dans cette présentation je parlerai de mon travail de stage sur l’expérimentation d’un GNN pour la reconnaissance et la classification des entités nommées. Ce stage financé par le LabEX ASLAN s’inscrit dans les objectifs du projet interdisciplinaire GEODE (https://geode-project.github.io/) ayant comme thème principal une étude diachronique des discours géographiques au sein d’encyclopédies françaises. Je présenterai un rapide état de l’art des GNN appliqués à la tâche de reconnaissance d’entités nommées. Dans ce travail nous nous intéressons en particulier à la tâche de classification semi-supervisée de noeuds afin d'étiqueter un corpus. Je présenterai mes premières expérimentations pour la construction d’un graphe représentant les articles encyclopédiques ainsi que les premiers résultats d’entrainement obtenus sur un jeu de données de test. Enfin, je parlerai des limites et des perspectives de ce travail et des tâches restantes à mener d’ici la fin du stage.
+
+**Speaker 3**: Victor Favre   : Detect Coinjoin In the bitcoin blockchain
+
+--- 
 ### Maps as Data
 **Day and Time**: June 4 2022, 13h00
 
