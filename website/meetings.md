@@ -10,6 +10,7 @@
 **Day and Time**: September 30 2022, 12h30
 
 **Speaker**: Mehdi Hennequin
+
 ---
 ### Interns presentation
 **Day and Time**: July 1 2022, 12h30
