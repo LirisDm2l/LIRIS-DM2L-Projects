@@ -1,3 +1,16 @@
+### Accounting for Imputation Incertitude During Neural Network Training
+**Day and Time**: October 14 2022, 10h30
+
+**Speaker**: Thomas Ranvier
+
+
+---
+
+### Multi-View Self-Attention for Regression Domain Adaptation with Feature Selection
+**Day and Time**: September 30 2022, 12h30
+
+**Speaker**: Mehdi Hennequin
+---
 ### Interns presentation
 **Day and Time**: July 1 2022, 12h30
 
