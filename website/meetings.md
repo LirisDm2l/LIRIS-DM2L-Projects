@@ -1,3 +1,9 @@
+### Synthesis of Artificial Intelligence Techniques for Cyber Defense
+**Day and Time**: Friday November 25, 12:30
+
+**Speaker**: Giuseppina Andresini
+
+---
 ### Accounting for Imputation Incertitude During Neural Network Training
 **Day and Time**: October 14 2022, 10h30
 
