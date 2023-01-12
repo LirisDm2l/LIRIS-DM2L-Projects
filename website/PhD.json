@@ -3,6 +3,13 @@
 		"category": "PhD Students",
 		"people": [
 			{
+				"name": "Ata Kamal",
+				"affiliation": "INSA",
+				"title": "Expliquer un GNN",
+				"webpage": "https://liris.cnrs.fr/page-membre/ataollah-kamal",
+				"supervision": "Céline Robardet, Marc Plantevit",
+				"depuis": "2022 to ..."
+			},{
 				"name": "Rafael Ramos Tubino",
 				"affiliation": "UCBL",
 				"title": "Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies",
