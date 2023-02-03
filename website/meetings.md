@@ -9,6 +9,7 @@
 **Day and Time**: Friday January 27, 12:30
 
 **Speaker**: Rémy Cazabet
+
 Paper: https://www.arxiv-vanity.com/papers/2301.08210/
 
 ---
