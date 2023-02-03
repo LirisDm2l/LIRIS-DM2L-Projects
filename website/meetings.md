@@ -1,3 +1,18 @@
+### Introduction to the Julia programming language
+**Day and Time**: Friday February 3, 12:30
+
+**Speaker**: Léonard Tschora
+
+---
+
+### Discussion around the paper: "Everything is Connected: Graph Neural Networks"
+**Day and Time**: Friday January 27, 12:30
+
+**Speaker**: Rémy Cazabet
+Paper: https://www.arxiv-vanity.com/papers/2301.08210/
+
+---
+
 ### Synthesis of Artificial Intelligence Techniques for Cyber Defense
 **Day and Time**: Friday November 25, 12:30
 
