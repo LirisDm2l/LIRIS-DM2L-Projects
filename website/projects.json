@@ -165,13 +165,13 @@
   "industrial":true
 },
   {"name":"Electricity Price Forecasting on the Day-Ahead Market using Machine Learning",
-"description":"The objective of this CIFRE PhD thesis is to predict Electry price based on Machiner Learning techniques. It is a collaboration with the company Planete OUI",
+"description":"The objective of this CIFRE PhD thesis is to predict Electry price based using Machine Learning techniques. It is a collaboration with the company BCM Energy",
 "start":2020,
 "end":2023,
  "funding":"CIFRE",
  "budget_k":200,
  "who":"Robardet, Plantevit",
- "partners":"Planete OUI",
+ "partners":"BCM Energy",
   "industrial":true
 },
 {"name":"Construction de modèles de classification supervisée à partir de données provenant d'un réseau d'experts",
