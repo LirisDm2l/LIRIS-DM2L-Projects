@@ -1,3 +1,10 @@
+### mFils: Tri-selection via convex and nonconvex regularizations
+**Day and Time**: Friday February 10, 2p.m
+
+**Speaker**: Doul El Kefel Mansouri (université de Tiaret, Algérie)
+
+---
+
 ### Introduction to the Julia programming language
 **Day and Time**: Friday February 3, 12:30
 
