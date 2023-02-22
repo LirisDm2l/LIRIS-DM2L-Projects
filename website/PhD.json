@@ -3,13 +3,22 @@
 		"category": "PhD Students",
 		"people": [
 			{
+				"name": "Jonathan PATTIN-COTTET",
+				"affiliation": "UCBL",
+				"title": "Deep learning appliqué au traitement des ordonnances médicales",
+				"webpage": "TBA",
+				"supervision": "Alexandre Aussem, Véronique Eglin",
+				"depuis": "2023 to 2026"
+			},
+			{
 				"name": "Arthur BATEL",
 				"affiliation": "INSA",
 				"title": "Tests adaptatifs informatisés avec apprentissage par renforcement",
 				"webpage": "https://liris.cnrs.fr/page-membre/arthur-batel",
 				"supervision": "Céline Robardet",
 				"depuis": "2022 to 2025"
-			},{
+			},
+			{
 				"name": "Ata KAMAL",
 				"affiliation": "INSA",
 				"title": "Expliquer un GNN",
