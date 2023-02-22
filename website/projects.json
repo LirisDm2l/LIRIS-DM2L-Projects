@@ -8,6 +8,14 @@
  "who":"Remy",
    "partners":"Laboratoire d’Ecologie Microbienne (UMR 5557), Institut des Sciences Analytiques (UMR 5280)"
 },
+{"name":"PORTRAIT, Improving psychiatric screening with artificial intelligence",
+"description":"It is a project funded by the ANR, French National Research Agency, as a 42 months PRCE program (projet de recherche collaborative Entreprise).",
+"start":2022,
+"end":2025,
+ "funding":"ANR",
+ "budget_k":425,
+ "who":"Céline Robardet, Humans Matter"
+},
 {"name":"CovDyn, Covid Dynamics",
 "description":"Simulation de propagation de l'épidémie de Covid-19. Etude des possibilités d'application des modèles compartimentaux pour capter les dynamiques de confinement et de déconfinement. Développement de modèles de simulation permettant d'étudier l'interaction entre différentes mesures (port de masque, distanciation, traçage des contacts, tests, isolement). Evaluation sur simulateur des stratégies vaccinales. Le projet est coordonné par Pascal Roy (Université Lyon 1, HCL, LBBE).",
 "start":2020,
