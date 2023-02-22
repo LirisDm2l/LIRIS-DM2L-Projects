@@ -1,4 +1,13 @@
 [
+   {"name":"DeepLigGPCR",
+"description":" Nouvelles approches protéo-chemométriques guidées par des méthodes d’intelligence artificielle pour le design rationnel de nouveaux ligands de RCPG.",
+"start":2022,
+"end":2023,
+ "funding":"MITI",
+ "budget_k":20,
+ "who":"Céline Robardet, Marc Plantevit",
+   "partners":"Institut de Chimie de Nice (UMR 7272)"
+},
    {"name":"MosquiAdapt",
 "description":" The role of the DM2L team in this project is to analyse the interactions among the holobiont of mosquitos, and their reaction to polluted environments.",
 "start":2022,
