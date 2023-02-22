@@ -3,66 +3,121 @@
 		"category": "PhD Students",
 		"people": [
 			{
-				"name": "Ata Kamal",
+				"name": "Arthur BATEL",
+				"affiliation": "INSA",
+				"title": "Tests adaptatifs informatisés avec apprentissage par renforcement",
+				"webpage": "https://liris.cnrs.fr/page-membre/arthur-batel",
+				"supervision": "Céline Robardet",
+				"depuis": "2022 to 2025"
+			},{
+				"name": "Ata KAMAL",
 				"affiliation": "INSA",
 				"title": "Expliquer un GNN",
 				"webpage": "https://liris.cnrs.fr/page-membre/ataollah-kamal",
 				"supervision": "Céline Robardet, Marc Plantevit",
-				"depuis": "2022 to ..."
+				"depuis": "2022 to 2025"
 			},{
-				"name": "Léonard Tschora",
-				"affiliation": "INSA, <a href='http://www.bcmenergy.fr/fr'>BCM Energy</a>",
+				"name": "Léonard TSCHORA",
+				"affiliation": "INSA, <a href='http://www.bcmenergy.fr/fr'>BCM Energy*</a>",
 				"title": "Machine Learning Techniques for electricity prices forecasting",
 				"webpage": "https://liris.cnrs.fr/page-membre/leonard-tschora",
 				"supervision": "Céline Robardet, Marc Plantevit",
-				"depuis": "2020 to ..."
+				"depuis": "2020 to 2023"
 			},{
-				"name": "Rafael Ramos Tubino",
+				"name": "Rafael RAMOS TUBINO",
 				"affiliation": "UCBL",
 				"title": "Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies",
 				"webpage": "https://liris.cnrs.fr/page-membre/rafael-ramos-tubino",
 				"supervision": "Rémy Cazabet, Céline Robardet",
-				"depuis": "2019 to ..."
+				"depuis": "2019 to 2023"
 			},
 			{
-				"name": "Luca Veyrin",
+				"name": "Luca VEYRIN",
 				"affiliation": "INSA",
 				"title": "Explainable IA, Data Mining",
 				"webpage": " https://liris.cnrs.fr/page-membre/luca-veyrin",
 				"supervision": "Céline Robardet, Marc Plantevit",
-				"depuis": "2019 to ..."
+				"depuis": "2019 to 2023"
 			},
 			{
-				"name": "Youcef Remil",
-				"affiliation": "INSA, Infologic",
+				"name": "Youcef REMIL",
+				"affiliation": "INSA, Infologic*",
 				"title": "Recherche et développement de nouvelles méthodes AIOps pour la maintenance prédictive d'un grand parc de serveurs d'applications",
 				"webpage": " https://liris.cnrs.fr/page-membre/luca-veyrin",
-				"depuis": "2020 to ...",
+				"depuis": "2020 to 2023",
 				"supervision": "Mehdi Kaytoue, Jean-Francois Boulicaut"
 			},
 			{
-				"name": "Alice Brenon",
+				"name": "Alice BRENON",
 				"affiliation": "CNRS",
 				"supervision": "Frédérique Laforest, Ludovic Moncla, Denis Vigier",
 				"title": "Methods and tools for the diachronic study of geographic discourse in French encycopedia",
 				"webpage": "https://liris.cnrs.fr/page-membre/alice-brenon",
-				"depuis": "2021 to ..."
+				"depuis": "2021 to 2024"
 			},
 			{
-				"name": "Jean-Baptiste Guimbaud",
-				"affiliation": "INSA, ISGlobal, <a href='https://meersens.com'>Meersens</a>",
+				"name": "Jean-Baptiste GUIMBAUD",
+				"affiliation": "UCBL, ISGlobal, <a href='https://meersens.com'>Meersens*</a>",
 				"title": "Predicting and explaining health trajectories using omics data and XAI",
 				"webpage": "https://liris.cnrs.fr/page-membre/jean-baptiste-guimbaud",
 				"supervision": "Rémy Cazabet, Marc Plantevit",
-				"depuis": "2021 to ..."
+				"depuis": "2021 to 2024"
 			},
 			{
 				"name": "Thibaut CHATAING",
-				"affiliation": "INSA, <a href='https://www.palo-it.com/fr/'>PALO IT</a>",
+				"affiliation": "INSA, <a href='https://www.palo-it.com/fr/'>PALO IT*</a>",
 				"title": "Construction de modèles de classification supervisée à partir de données provenant d'un réseau d'experts",
 				"webpage": "https://liris.cnrs.fr/page-membre/thibaut-chataing",
 				"supervision": "Céline Robardet, Marc Plantevit",
-				"depuis": "2022 to ..."
+				"depuis": "2022 to 2025"
+			},
+			{
+				"name": "Yacine GACI",
+				"affiliation": "UCBL",
+				"title": "Vers la Subjectivité dans le Traitement de Langage Naturel",
+				"webpage": "https://liris.cnrs.fr/page-membre/yacine-gaci",
+				"supervision": "Boualem Benatallah, Khalid Benabdeslem, Mohand-Said Hacid",
+				"depuis": "2019 to 2023"
+			},
+			{
+				"name": "Auday BERRO",
+				"affiliation": "UCBL, ECL",
+				"title": "Apprentissage automatique pour les spécifications déclaratives et les services cognitifs",
+				"webpage": "https://github.com/AudayBerro",
+				"supervision": "Boualem Benatallah, Khalid Benabdeslem",
+				"depuis": "2019 to 2023"
+			},
+			{
+				"name": "Hugo BERTRAND",
+				"affiliation": "UCBL, ECL",
+				"title": "A venir",
+				"webpage": "	https://perso.liris.cnrs.fr/hbertrand",
+				"supervision": "Mohand-Said Hacid, Emmanuel Coquery, Haytham Elghazel",
+				"depuis": "2019 to 2023"
+			},
+			{
+				"name": "Thomas RANVIER",
+				"affiliation": "UCBL",
+				"title": "Apprentissage profond multi-vues pour le post-traitement d’immunothérapie de patients atteints d'un cancer",
+				"webpage": "	https://perso.liris.cnrs.fr/tranvier",
+				"supervision": "Khalid Benabdeslem, Emmanuel Coquery, Haytham Elghazel",
+				"depuis": "2020 to 2023"
+			},
+			{
+				"name": "Mehdi HENNEQUIN",
+				"affiliation": "UCBL",
+				"title": "Apprentissage multi–vues pour l’optimisation de la durée de vie des profils d'outils de roulage à froid",
+				"webpage": "https://perso.liris.cnrs.fr/mhennequin",
+				"supervision": "Khalid Benabdeslem, Haytham Elghazel",
+				"depuis": "2020 to 2023"
+			},
+			{
+				"name": "Florian BAUD",
+				"affiliation": "UCBL",
+				"title": "Les agents conversationnels neuronaux à mémoire",
+				"webpage": "https://florianbaud.github.io/",
+				"supervision": "Alexandre Aussem",
+				"depuis": "2020 to 2024"
 			}
 		]
 	},
