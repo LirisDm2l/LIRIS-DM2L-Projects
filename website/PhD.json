@@ -221,6 +221,14 @@
 				"webpage": "https://www.theses.fr/2015ENSL1017",
 				"supervision": "Patrick Flandrin, Céline Robardet",
 				"depuis": "2013-2015"
+			},
+			{
+				"name": "Ruggero Gaetano Pensa",
+				"affiliation": "INSA",
+				"title": "Un Cadre générique pour la co-classification sous contraintes : application à l'analyse du transcriptome",
+				"webpage": "https://www.theses.fr/2006ISAL0078",
+				"supervision": "Jean-François Boulicaut, Céline Robardet",
+				"depuis": "2003-2006"
 			}
 		]
 	}
