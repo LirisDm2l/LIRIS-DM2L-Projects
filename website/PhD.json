@@ -19,7 +19,7 @@
 			},
 			{
 				"name": "Thibaut CHATAING",
-				"affiliation": "INSA, <a href='https://www.palo-it.com/fr/'>PALO IT*</a>",
+				"affiliation": "INSA, <a href='https://www.palo-it.com/fr/'>PALO IT</a>",
 				"title": "Construction de modèles de classification supervisée à partir de données provenant d'un réseau d'experts",
 				"webpage": "https://liris.cnrs.fr/page-membre/thibaut-chataing",
 				"supervision": "Céline Robardet, Marc Plantevit",
@@ -35,7 +35,7 @@
 			},
 			{
 				"name": "Jean-Baptiste GUIMBAUD",
-				"affiliation": "UCBL, ISGlobal, <a href='https://meersens.com'>Meersens*</a>",
+				"affiliation": "UCBL, ISGlobal, <a href='https://meersens.com'>Meersens</a>",
 				"title": "Predicting and explaining health trajectories using omics data and XAI",
 				"webpage": "https://liris.cnrs.fr/page-membre/jean-baptiste-guimbaud",
 				"supervision": "Rémy Cazabet, Marc Plantevit",
@@ -43,7 +43,7 @@
 			},
 			{
 				"name": "Léonard TSCHORA",
-				"affiliation": "INSA, <a href='http://www.bcmenergy.fr/fr'>BCM Energy*</a>",
+				"affiliation": "INSA, <a href='http://www.bcmenergy.fr/fr'>BCM Energy</a>",
 				"title": "Machine Learning Techniques for electricity prices forecasting",
 				"webpage": "https://liris.cnrs.fr/page-membre/leonard-tschora",
 				"supervision": "Céline Robardet, Marc Plantevit",
@@ -51,7 +51,7 @@
 			},
 			{
 				"name": "Youcef REMIL",
-				"affiliation": "INSA, Infologic*",
+				"affiliation": "INSA, <a href='infologic'>Infologic</a>",
 				"title": "Recherche et développement de nouvelles méthodes AIOps pour la maintenance prédictive d'un grand parc de serveurs d'applications",
 				"webpage": " https://liris.cnrs.fr/page-membre/luca-veyrin",
 				"depuis": "2020 to 2023",
@@ -61,7 +61,7 @@
 				"name": "Thomas RANVIER",
 				"affiliation": "UCBL",
 				"title": "Apprentissage profond multi-vues pour le post-traitement d’immunothérapie de patients atteints d'un cancer",
-				"webpage": "	https://perso.liris.cnrs.fr/tranvier",
+				"webpage": "https://perso.liris.cnrs.fr/tranvier",
 				"supervision": "Khalid Benabdeslem, Emmanuel Coquery, Haytham Elghazel",
 				"depuis": "2020 to 2023"
 			},
@@ -117,7 +117,7 @@
 				"name": "Hugo BERTRAND",
 				"affiliation": "UCBL, ECL",
 				"title": "A venir",
-				"webpage": "	https://perso.liris.cnrs.fr/hbertrand",
+				"webpage": "https://perso.liris.cnrs.fr/hbertrand",
 				"supervision": "Mohand-Said Hacid, Emmanuel Coquery, Haytham Elghazel",
 				"depuis": "2019 to 2023"
 			}
