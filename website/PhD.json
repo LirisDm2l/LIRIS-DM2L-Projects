@@ -181,6 +181,14 @@
 				"webpage": "https://www.theses.fr/2016LYSEI084",
 				"supervision": "Mehdi Kaytoue, Jean-François Boulicaut",
 				"depuis": "2014-2016"
+			},
+			{
+				"name": "Anes Bendimerad",
+				"affiliation": "INSA",
+				"title": "Mining useful patterns in attributed graphs",
+				"webpage": "https://www.theses.fr/2019LYSEI058",
+				"supervision": "Marc Plantevit, Céline Robardet",
+				"depuis": "2016-2019"
 			}
 		]
 	}
