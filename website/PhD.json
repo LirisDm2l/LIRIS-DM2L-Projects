@@ -189,6 +189,38 @@
 				"webpage": "https://www.theses.fr/2019LYSEI058",
 				"supervision": "Marc Plantevit, Céline Robardet",
 				"depuis": "2016-2019"
+			},
+			{
+				"name": "Mohamed Ali Hammal",
+				"affiliation": "INSA",
+				"title": "Contribution à la découverte de sous-groupes corrélés : Application à l’analyse des systèmes territoriaux et des réseaux alimentaires",
+				"webpage": "https://www.theses.fr/2020LYSEI024",
+				"supervision": "Marc Plantevit, Céline Robardet",
+				"depuis": "2016-2020"
+			},
+			{
+				"name": "Mohamed Benabdelkrim",
+				"affiliation": "INSA",
+				"title": "Les communautés dans les multigraphes de co-appartenance : Application aux listes Twitter",
+				"webpage": "https://www.theses.fr/2021LYSEI100",
+				"supervision": "Jean Savinien, Céline Robardet",
+				"depuis": "2017-2021"
+			},
+			{
+				"name": "Corentin Lonjarret",
+				"affiliation": "INSA",
+				"title": "Sequential recommendation and explanations",
+				"webpage": "https://www.theses.fr/2021LYSEI003",
+				"supervision": "Marc Plantevit, Céline Robardet",
+				"depuis": "2018-2021"
+			},
+			{
+				"name": "Ronan Hamon",
+				"affiliation": "INSA",
+				"title": "Analyse de réseaux temporels par des méthodes de traitement du signal : application au système de vélos en libre-service à Lyon",
+				"webpage": "https://www.theses.fr/2015ENSL1017",
+				"supervision": "Patrick Flandrin, Céline Robardet",
+				"depuis": "2013-2015"
 			}
 		]
 	}
