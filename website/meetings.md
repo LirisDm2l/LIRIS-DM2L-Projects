@@ -1,3 +1,20 @@
+You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics):
+
+
+### Temporal network compression via network hashing
+**Day and Time**: Friday February 23, 12:30
+
+**Speaker**: Rémi Vaudaine (ENS de Lyon, France)
+
+**Abstract**: Temporal networks provide a good representation of systems with pairwise interactions evolving over time. 
+Dynamical processes lying on temporal networks, such as epidemic or information spreading, influence or cascading failure, depict different phenomena of interest. 
+But, since their collective patterns cannot be larger than the largest connected component of the underlying network, the percolating structure of the temporal network determines largely the outcome of any of these dynamical processes.
+However, the computation of the connected components of temporal networks is difficult because of the temporal dimension.
+
+To tackle this issue, we propose a streaming matrix algorithm that only requires one scan through the list of events and outputs the component matrix that describes some specific connected components in the network. Then, we also propose a general purpose compression scheme via hashing to further improve our algorithm. Our solution outperforms the state-of-the-art in the computation efficiency of the largest out-components, giving an upper estimate for the size of any macroscopic phenomena.
+
+---
+
 ### mFils: Tri-selection via convex and nonconvex regularizations
 **Day and Time**: Friday February 10, 2p.m
 
