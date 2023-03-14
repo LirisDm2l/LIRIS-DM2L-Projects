@@ -1,5 +1,18 @@
 You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
+### Explaining machine learning models on graphs by identifying hidden structures built by GNNs
+
+**Day and Time**: Friday March 24, from 12:30 to 13:30
+
+**Speaker**: Luca Veyrin-Forrer
+
+**Abstract**: The last decade has witnessed a huge growth in the development of deep neural network-based techniques for graphs and Graph Neural Networks (GNNs) have proven to be the most effective for many graph machine learning problems. These powerful models are based on node representation learning which avoids the tedious and time-consuming task of hand-crafted feature engineering.  However, the internal working of GNN models remains opaque which is the major obstacle to their deployment, raising some issues on societal acceptability and trustworthiness, requirements which enjoin making explicit the internal functioning of such models.
+
+In this thesis, we study the problem of GNN explainability. Our main contribution, INSIDEGNN, aims at mining activation rules in the hidden layers to understand how the GNNs perceive the world. The problem is not to discover activation rules that are individually highly discriminating for an output of the model. Instead, the challenge is to provide a small set of rules that cover all input graphs. We introduce a subjective activation pattern domain to solve this task. INSIDEGNN is thus an effective and principled algorithm to enumerate activation rules in each hidden layer. The proposed approach for quantifying the interest of these rules is rooted in information theory and can account for background knowledge on the input graph data.  Activation rules can subsequently be used for explaining GNN decisions. Experiments on both synthetic and real-life datasets show highly competitive performance, with up to 200% improvement in fidelity on explaining graph classification model over the state-of-the art methods.  
+
+Activation rules are not interpretable by themselves since they only define internal representations having a strong impact on the classification process. They are not sufficient to examine what the GNN actually captures and shed light on the hidden features built by the GNN.  We propose to interpret these rules by identifying a graph that is fully embedded in the related subspace identified by the rule. The devised method, named  DISCERN, is based on a Monte Carlo Tree Search controlled by a proximity measure between the graph embedding and the internal representation of the rule, as well as a realism factor that constrains the distribution of the labels of the graph to be similar to that observed on the dataset. The obtained graphs are realistic and fully understandable by the end user.
+
+---
 
 ### Temporal network compression via network hashing
 **Day and Time**: Friday February 23, 12:30
