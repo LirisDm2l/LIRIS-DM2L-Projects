@@ -1,4 +1,37 @@
 You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
+### Seminar (DM2L/AIStroSight): ML & Health
+
+**Day and Time**: Friday May 5, from 11:30 to 12:30
+
+**Speaker**: Jean-Baptiste Guimbaud (DM2L) & Hana Sebia (AIStroSight)
+
+**Jean-Baptiste Guimbaud: Development of Environmental-Clinical risk scores for Health Outcomes in European children.**
+Early life environmental stressors play an important role in the development of multiple chronic disorders. Previous studies that used environmental risk scores (ERS) to assess the cumulative impact of environmental exposures on health are limited by the diversity of exposures included, especially for early life determinants. In this presentation, we will discuss a work currently under review where we proposed nonlinear environmental-clinical risk scores in children derived from a wide variety of environmental and clinical factors. The scores cover three health outcomes namely child behavior, metabolic syndrome and lung function. Exposome-health relationships were further extracted from those scores using Shapley values. Besides their usefulness for epidemiological research, our risk scores showed potential in clinical settings, with the ability to capture holistic individual-level nonhereditary risk associations that can inform practitioners about actionable factors of high-risk children.
+
+**Hana Sebia: An Extension of Tensor Decomposition to Temporal Phenotyping** 
+Résumé : Tensor decomposition has recently been gaining increasing attention in the machine learning community, due to its versatility in processing large-scale data. However, this task becomes more difficult when the data follows complex temporal patterns. Recent decomposition models took into account time progression to build representative phenotypes, but they met with limited success as the extracted phenotypes only describe snapshots of typical profiles. In this presentation, we extend the tensor decomposition to the extraction of temporal phenotypes, described as an arrangement of features over a temporal window. We propose SWoTTeD (Sliding Window for Temporal Tensor Decomposition), a novel machine learning model integrating regularization to enhance the model interpretability. We validate the proposed model on both synthetic data and real-world data from the Greater Paris University Hospital. The results show that SWoTTeD outperforms the state-of-the-art tensor decomposition models in reconstruction accuracy, and the discovered phenotypes are clinically meaningful.
+
+---
+
+### Forecasting Electricity Prices: an Optimize then Predict-based approach 
+
+**Day and Time**: Friday april 7, from 11:30 to 12:30
+
+**Speaker**: Leonard Tschora
+
+**Abstract**: The electricity market is ruled by price regulation mechanisms
+that make it possible to adjust production to demand, as electricity is
+difficult to store. These mechanisms ensure the highest price for producers,
+the lowest price for consumers and a zero energy balance by setting day-
+ahead prices, i.e. prices for the next 24 hours. Most studies have focused
+on learning increasingly sophisticated models to predict the next day’s 24
+hourly prices for a given zone. However, the zones are interdependent and
+this last point has hitherto been largely underestimated. In the following,
+we show that estimating the energy cross-border transfer by solving an
+optimization problem and integrating it as input of a model improves the
+performance of the price forecasting for several zones together.
+
+---
 
 ### Explaining machine learning models on graphs by identifying hidden structures built by GNNs
 
