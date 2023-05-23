@@ -3,10 +3,11 @@
 "description":"Détection de communautés dynamiques dans des flots de liens massifs",
 "start":2022,
 "end":2025,
- "funding":"Industrial",
+ "funding":"industrial",
  "budget_k":200,
- "who":"Céline Robardet, Marc Plantevit",
-   "partners":"SAHAR"
+ "who":"Cazabet Rémy",
+   "partners":"SAHAR",
+    "industrial":true
 },
    {"name":"DeepLigGPCR",
 "description":" Nouvelles approches protéo-chemométriques guidées par des méthodes d’intelligence artificielle pour le design rationnel de nouveaux ligands de RCPG.",
@@ -24,7 +25,8 @@
  "funding":"MITI",
  "budget_k":1,
  "who":"Remy",
-   "partners":"Laboratoire d’Ecologie Microbienne (UMR 5557), Institut des Sciences Analytiques (UMR 5280)"
+   "partners":"Laboratoire d’Ecologie Microbienne (UMR 5557), Institut des Sciences Analytiques (UMR 5280)",
+    "industrial":false
 },
 {"name":"PORTRAIT, Improving psychiatric screening with artificial intelligence",
 "description":"It is a project funded by the ANR, French National Research Agency, as a 42 months PRCE program (projet de recherche collaborative Entreprise).",
