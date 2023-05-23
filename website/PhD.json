@@ -3,6 +3,13 @@
 		"category": "PhD Students",
 		"people": [
 			{
+				"name": "Victor Brabant",
+				"affiliation": "UCBL",
+				"title": "Détection de communautés dynamiques dans des flots de liens massifs",
+				"webpage": "https://liris.cnrs.fr/page-membre/victor-brabant",
+				"supervision": "Rémy Cazabet, Angela Bonifati",
+				"depuis": "2023 to 2026"
+			},{
 				"name": "Jonathan PATTIN-COTTET",
 				"affiliation": "UCBL",
 				"title": "Deep learning appliqué au traitement des ordonnances médicales",
