@@ -2,7 +2,16 @@
 
 ---
 
+### ATTRIBUTED STREAM HYPERGRAPHS: TEMPORAL MODELING OF NODE-ATTRIBUTED HIGH-ORDER INTERACTIONS
 
+**Day and Time**: Friday May 26, from 11:00 to 12:00
+
+**Speaker**: Andrea Failla (University of Pisa, visiting PhD student)
+
+**Abstract**: Recent advances in network science have resulted in two distinct research directions aimed at augmenting and enhancing representations for complex networks. The first direction, that of high-order modeling, aims to focus on connectivity between sets of nodes rather than pairs, whereas the second one, that of feature-rich augmentation, incorporates into a network all those elements that are driven by information which is external to the structure, like node properties or the flow of time.
+A novel toolbox, that of Attributed Stream Hypergraphs (ASHs), unifies both high-order and feature-rich elements for representing, mining, and analyzing complex networks. Applied to social network analysis, ASHs can characterize complex social phenomena along topological, dynamic, and attributive elements. Experiments on real-world face-to-face and online social media interactions highlight that ASHs can easily allow for the analyses, among others, of high-order groups’ homophily, nodes’ homophily with respect to the hyperedges in which nodes participate, and time-respecting paths between hyperedges.
+
+---
 
 ### Seminar (DM2L/AIStroSight): ML & Health
 
