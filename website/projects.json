@@ -1,4 +1,13 @@
 [
+   {"name":"DECOFLO",
+"description":" Détection de communautés dynamiques dans des flots de liens massifs",
+"start":2022,
+"end":2025,
+ "funding":"Industrial",
+ "budget_k":200,
+ "who":"Céline Robardet, Marc Plantevit",
+   "partners":"SAHAR"
+},
    {"name":"DeepLigGPCR",
 "description":" Nouvelles approches protéo-chemométriques guidées par des méthodes d’intelligence artificielle pour le design rationnel de nouveaux ligands de RCPG.",
 "start":2022,
