@@ -2,6 +2,16 @@
 
 ---
 
+### Spike detection in brain activity recordings of epilepsy patients
+
+**Day and Time**: Friday June 30, from 11:00 to 12:00
+
+**Speaker**: Pauline MOUCHES (Postdoctoral researcher, Lyon Neuroscience Research Center (CRNL) - Inserm)
+
+**Abstract**: Brain activity recordings of epilepsy patients contain brief morphologically defined events between seizures, called spikes. Their detection allows the localization of the brain region from which seizure originate. Nevertheless, they are often detected manually by clinicians, which is a time consuming task. In this presentation, I will introduce my current work on automated spike detection using deep learning. The task is addressed with a classification CNN trained using short time windows from the recordings. These windows can be seen as multivariate time series and are labelled as containing a spike or no. I will discuss the challenges encountered with the data including imbalance and imperfect labels, and propose an approach to integrate clinicians feedback in the model training loop. Finally, I will discuss a novel approach that we are currently developing based on graph neural networks, which allows us to account for the adjacency of the sensors recording the brain activity. 
+
+---
+
 ### ATTRIBUTED STREAM HYPERGRAPHS: TEMPORAL MODELING OF NODE-ATTRIBUTED HIGH-ORDER INTERACTIONS
 
 **Day and Time**: Friday May 26, from 11:00 to 12:00
