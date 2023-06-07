@@ -1,6 +1,7 @@
 ### Machine Learning and ANN at LIRIS mailing list
 LIRIS lab has a mailing list to share information on Machine Learning and Artificial Neural Networks. It is open to anyone interested in those topics in Lyon area.
 You can subscribe on [the page of the list](https://groupes.renater.fr/sympa/info/ml-ann-liris) 
+
 Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [sympa@groupes.renater.fr](mailto:sympa@groupes.renater.fr)
 
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
