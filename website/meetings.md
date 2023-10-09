@@ -6,6 +6,17 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
+
+---
+
+### Reading Maps: Making, Searching, and Interpreting Text on Maps
+
+**Day and Time**: Monday October 23, from 13:00 to 14:00
+
+**Speaker**: Katherine McDonough (Lancaster University and The Alan Turing Institute)
+
+**Abstract**: Machine learning methods are transforming the ways that anyone can interact with map collections. Using the results of a computer vision pipeline to understand past places at scale comes with new challenges and opportunities. The Machines Reading Maps project has worked with partners at the Library of Congress, the National Library of Scotland, the British Library, and also the David Rumsey Map Collection to create datasets of the text on large collections of digitized maps. This talk explores the results of the Machines Reading Maps project to date including our work in progress to, on the one hand, visualize and analyze the results for historical research, and, on the other, use text on maps data to improve map collection discovery. 
+
 ---
 
 ### Spike detection in brain activity recordings of epilepsy patients
