@@ -8,6 +8,14 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 ---
 
+### Apprentissage semi-supervisé : Classification et réduction de dimensions 
+
+**Day and Time**:  Friday January 12 2024, 14:00
+
+**Speaker**: Khalid Benabdeslem, DM2L
+
+---
+
 ### Réseaux et société : Rayonnement culturel, compétition économique et trajectoires géospatiales
 
 **Day and Time**: Friday December 15 2023, 10:00
@@ -24,6 +32,7 @@ Cette présentation explore trois applications de la théorie des graphes dans l
 **Day and Time**: Friday December 1 2023, 10:00
 
 **Speaker**: Rafal Tubino, PhD student, DM2L
+
 ---
 
 ### Reading Maps: Making, Searching, and Interpreting Text on Maps
