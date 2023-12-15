@@ -6,7 +6,24 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
+---
 
+### Réseaux et société : Rayonnement culturel, compétition économique et trajectoires géospatiales
+
+**Day and Time**: Friday December 15 2023, 10:00
+
+**Speaker**: Célestin Coquidé, postdoctorant in the DM2L team
+
+**Abstract**: Les phénomènes complexes qu'ils soient physiques, biologiques ou encore économiques se caractérisent par des propriétés émergentes, observables uniquement à certaines échelles, rendant ainsi leur étude analytique souvent difficile. Des exemples concrets tels que les pendules couplés, les épidémies et les crises financières illustrent la complexité de ces systèmes. Pour faciliter leur compréhension et leur analyse, nous utilisons la représentation en graphe, ou réseau. Un réseau est un ensemble de nœuds représentant des entités, et de liens représentant leurs interactions.
+Cette présentation explore trois applications de la théorie des graphes dans l'analyse socio-économique. Nous commencerons par examiner comment Wikipédia reflète les tendances culturelles [1], puis nous modéliserons l'émergence de devises internationales au sein des réseaux d'échanges commerciaux [2,3]. Enfin, nous plongerons dans la construction et l'analyse de réseaux décrivant des trajectoires géospatiales [4].
+
+---
+
+### A Study of Users, Real Cash Flows and Temporal Activity in the Bitcoin Ecosystem (Répétition de soutenance de thèse)
+
+**Day and Time**: Friday December 1 2023, 10:00
+
+**Speaker**: Rafal Tubino, PhD student, DM2L
 ---
 
 ### Reading Maps: Making, Searching, and Interpreting Text on Maps
