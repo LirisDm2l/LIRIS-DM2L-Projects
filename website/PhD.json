@@ -3,6 +3,13 @@
 		"category": "PhD Students",
 		"people": [
 			{
+				"name": "Yassir Lairgi",
+				"affiliation": "UCBL",
+				"title": "Detection of Weak Signals in Graph-oriented Data: An Approach using LLM and DGNN ",
+				"webpage": "https://liris.cnrs.fr/en/member-page/yassir-lairgi",
+				"supervision": "Khalid Benabdeslem, Ludovic Moncla, Rémy Cazabet",
+				"depuis": "2023 to 2026"
+			},{
 				"name": "Victor Brabant",
 				"affiliation": "UCBL",
 				"title": "Détection de communautés dynamiques dans des flots de liens massifs",
