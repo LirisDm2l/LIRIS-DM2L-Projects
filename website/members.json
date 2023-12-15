@@ -8,12 +8,6 @@
 "photo":"http://perso.univ-lyon1.fr/alexandre.aussem/design/aussem.jpg",
 "webpage":"http://perso.univ-lyon1.fr/alexandre.aussem/teaching.html"
 },
- {"name":"Jean-François Boulicaut",
-"affiliation":"INSA",
-"keywords":"Pattern mining,knowledge discovery",
-"photo":"https://perso.liris.cnrs.fr/jean-francois.boulicaut/IF%20JFBoulicaut.JPG",
-"webpage":"https://perso.liris.cnrs.fr/jean-francois.boulicaut/"
-},
 {"name":"Céline Robardet",
 "affiliation":"INSA",
 "keywords":"Complex systems,Pattern mining",
@@ -58,40 +52,5 @@
 "webpage":"http://liris.cnrs.fr/~crigotti/"
 }
 ]
- },
-  {
-    "category": "Maître de Conférences (Associate Professors) - External",
-    "people": [
-{"name":"Serge Fenet",
-"affiliation":"UCBL",
-"keywords":"modelling, simulation",
-"photo":"",
-"webpage":"http://liris.cnrs.fr/membres?idn=sfenet"
-},
-{"name":"Mehdi Kaytoue",
-"affiliation":"INSA (en disponibilité) - Infologic R&D",
-"keywords":"FCA, data mining, pattern mining",
-"photo":"people-pics/kaytoue.jpeg",
-"webpage":"http://liris.cnrs.fr/mehdi.kaytoue/",
- "twitter":"https://twitter.com/MehdiKaytoue"
-},
-{"name":"Claire Leschi",
-"affiliation":"INSA",
-"keywords":"",
-"photo":"https://i.ytimg.com/vi/vksqr3Fq6gs/maxresdefault.jpg",
-"webpage":"http://liris.cnrs.fr/membres?idn=cleschi"
-},
-{"name":"Florence Perraud",
-"affiliation":"POLYTECH Lyon",
-"keywords":"FCA, pattern mining, video game analytics",
-"photo":"",
-"webpage":"http://liris.cnrs.fr/membres?idn=fperraud"
-},
-      {"name":"Marc Plantevit",
-"affiliation":"UCBL",
-"keywords":"Pattern mining,Preferences",
-"photo":"https://perso.liris.cnrs.fr/mplantev/doku/lib/exe/fetch.php?w=200&tok=34e843&media=moi.jpg",
-"webpage":"https://perso.liris.cnrs.fr/mplantev/doku/"
-}]
  }
  ]
