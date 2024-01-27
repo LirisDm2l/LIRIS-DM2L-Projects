@@ -66,11 +66,24 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
 
 # Geographic Information Retrieval
 
+* spaCy Custom Spancat trained on Diderot & d’Alembert’s Encyclopédie entries. This model is designed to identify and classify text spans corresponding to named entities (such as Spatial, Person, and MISC), as well as nested named entities (including Spatial, Person, and MISC), spatial relations, and other relevant information within French encyclopedic entries. 
+  * https://huggingface.co/GEODE/fr_spacy_custom_spancat_edda
+  * Gold Standard Corpus for Named Entity Recognition and Span Categorization Annotations
+    * https://github.com/GEODE-project/ner-spancat-edda
+    * https://zenodo.org/records/10530178
+    * > [Moncla, L., Vigier, D., & McDonough, K. (2024). Diderot & d'Alembert's Encyclopédie: Gold Standard Corpus for Named Entity Recognition and Span Categorization Annotations (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10530178]
+
 * Deep Learning for Toponym Resolution. We propose to geocode place names (ie, toponyms) using the less information available (two place names, one to geocode and the second used as context) and rely on deep learning network architecture. The proposed architecture uses Ngram representation and colocation of toponyms in space and text for geocoding. 
   * https://gitlab.liris.cnrs.fr/jfize/toponym-geocoding
   * > [Fize, J., Moncla, L., & Martins, B. (2021). Deep Learning for Toponym Resolution: Geocoding Based on Pairs of Toponyms. ISPRS International Journal of Geo-Information, 10.]
 
+
+
 # Python library
+* __Perdido__ is a python library for geoparsing and geocoding French texts. It provides NLP and GIS methods for geoparsing French texts.
+  * https://github.com/ludovicmoncla/perdido
+  * Article: [L. Moncla and M. Gaio. Perdido: Python library for geoparsing and geocoding French texts. In proceedings of the First International Workshop on Geographic Information Extraction from Texts (GeoExT'23), ECIR Conference, Dublin, Ireland, 2023]
+
 * __CDlib__ is a python library dedicated to the community detection problem on graphs. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
   * https://github.com/GiulioRossetti/cdlib
   * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
