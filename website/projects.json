@@ -1,4 +1,13 @@
 [
+    {"name":"Détection de signaux faibles dans les données orientées graphes : une approche par LLM et DGNN ",
+"description":"These CIFRE avec comme partenaire Auvalie Innovation",
+"start":2023,
+"end":2026,
+ "funding":"CIFRE",
+ "budget_k":100,
+ "who":"Ludovic Moncla, Khalid Benabdeslem, Cazabet Rémy",
+  "industrial":true
+},
    {"name":"DECOFLO",
 "description":"Détection de communautés dynamiques dans des flots de liens massifs",
 "start":2022,
