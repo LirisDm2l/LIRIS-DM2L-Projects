@@ -1,4 +1,12 @@
 [
+    {"name":"Self Supervised Learning for Link Prediction",
+"description":"Transerversal project between two teams of LIRIS laboratory: SyCoSMA and DM2L.",
+"start":2023,
+"end":2025,
+ "funding":"LIRIS",
+ "budget_k":5,
+ "who":"Cazabet"
+},
     {"name":"Détection de signaux faibles dans les données orientées graphes : une approche par LLM et DGNN ",
 "description":"These CIFRE",
 "start":2023,
