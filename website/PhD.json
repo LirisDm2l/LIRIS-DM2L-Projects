@@ -70,7 +70,15 @@
 				"title": "Machine Learning Techniques for electricity prices forecasting",
 				"webpage": "https://liris.cnrs.fr/page-membre/leonard-tschora",
 				"supervision": "Céline Robardet, Marc Plantevit",
-				"depuis": "2020 to 2023"
+				"depuis": "2020 to 2024"
+			},
+			{
+				"name": "Mehdi HENNEQUIN",
+				"affiliation": "UCBL",
+				"title": "Apprentissage multi–vues pour l’optimisation de la durée de vie des profils d'outils de roulage à froid",
+				"webpage": "https://perso.liris.cnrs.fr/mhennequin",
+				"supervision": "Khalid Benabdeslem, Haytham Elghazel",
+				"depuis": "2020 to 2024"
 			},
 			{
 				"name": "Youcef REMIL",
@@ -88,14 +96,7 @@
 				"supervision": "Khalid Benabdeslem, Emmanuel Coquery, Haytham Elghazel",
 				"depuis": "2020 to 2023"
 			},
-			{
-				"name": "Mehdi HENNEQUIN",
-				"affiliation": "UCBL",
-				"title": "Apprentissage multi–vues pour l’optimisation de la durée de vie des profils d'outils de roulage à froid",
-				"webpage": "https://perso.liris.cnrs.fr/mhennequin",
-				"supervision": "Khalid Benabdeslem, Haytham Elghazel",
-				"depuis": "2020 to 2023"
-			},
+			
 			{
 				"name": "Florian BAUD",
 				"affiliation": "UCBL",
@@ -103,46 +104,6 @@
 				"webpage": "https://florianbaud.github.io/",
 				"supervision": "Alexandre Aussem",
 				"depuis": "2020 to 2024"
-			},
-			{
-				"name": "Rafael RAMOS TUBINO",
-				"affiliation": "UCBL",
-				"title": "Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies",
-				"webpage": "https://liris.cnrs.fr/page-membre/rafael-ramos-tubino",
-				"supervision": "Rémy Cazabet, Céline Robardet",
-				"depuis": "2019 to 2023"
-			},
-			{
-				"name": "Luca VEYRIN",
-				"affiliation": "INSA",
-				"title": "Explainable IA, Data Mining",
-				"webpage": " https://liris.cnrs.fr/page-membre/luca-veyrin",
-				"supervision": "Céline Robardet, Marc Plantevit",
-				"depuis": "2019 to 2023"
-			},
-			{
-				"name": "Yacine GACI",
-				"affiliation": "UCBL",
-				"title": "Vers la Subjectivité dans le Traitement de Langage Naturel",
-				"webpage": "https://liris.cnrs.fr/page-membre/yacine-gaci",
-				"supervision": "Boualem Benatallah, Khalid Benabdeslem, Mohand-Said Hacid",
-				"depuis": "2019 to 2023"
-			},
-			{
-				"name": "Auday BERRO",
-				"affiliation": "UCBL, ECL",
-				"title": "Apprentissage automatique pour les spécifications déclaratives et les services cognitifs",
-				"webpage": "https://github.com/AudayBerro",
-				"supervision": "Boualem Benatallah, Khalid Benabdeslem",
-				"depuis": "2019 to 2023"
-			},
-			{
-				"name": "Hugo BERTRAND",
-				"affiliation": "UCBL, ECL",
-				"title": "A venir",
-				"webpage": "https://perso.liris.cnrs.fr/hbertrand",
-				"supervision": "Mohand-Said Hacid, Emmanuel Coquery, Haytham Elghazel",
-				"depuis": "2019 to 2023"
 			}
 		]
 	},
@@ -252,6 +213,46 @@
 				"webpage": "https://www.theses.fr/2006ISAL0078",
 				"supervision": "Jean-François Boulicaut, Céline Robardet",
 				"depuis": "2003-2006"
+			},
+			{
+				"name": "Rafael RAMOS TUBINO",
+				"affiliation": "UCBL",
+				"title": "Machine Learning and Network Analysis for Understanding the Nature of Activities in Cryptocurrencies",
+				"webpage": "https://liris.cnrs.fr/page-membre/rafael-ramos-tubino",
+				"supervision": "Rémy Cazabet, Céline Robardet",
+				"depuis": "2019 to 2023"
+			},
+			{
+				"name": "Luca VEYRIN",
+				"affiliation": "INSA",
+				"title": "Explainable IA, Data Mining",
+				"webpage": " https://liris.cnrs.fr/page-membre/luca-veyrin",
+				"supervision": "Céline Robardet, Marc Plantevit",
+				"depuis": "2019 to 2023"
+			},
+			{
+				"name": "Yacine GACI",
+				"affiliation": "UCBL",
+				"title": "Vers la Subjectivité dans le Traitement de Langage Naturel",
+				"webpage": "https://liris.cnrs.fr/page-membre/yacine-gaci",
+				"supervision": "Boualem Benatallah, Khalid Benabdeslem, Mohand-Said Hacid",
+				"depuis": "2019 to 2023"
+			},
+			{
+				"name": "Auday BERRO",
+				"affiliation": "UCBL, ECL",
+				"title": "Apprentissage automatique pour les spécifications déclaratives et les services cognitifs",
+				"webpage": "https://github.com/AudayBerro",
+				"supervision": "Boualem Benatallah, Khalid Benabdeslem",
+				"depuis": "2019 to 2023"
+			},
+			{
+				"name": "Hugo BERTRAND",
+				"affiliation": "UCBL, ECL",
+				"title": "A venir",
+				"webpage": "https://perso.liris.cnrs.fr/hbertrand",
+				"supervision": "Mohand-Said Hacid, Emmanuel Coquery, Haytham Elghazel",
+				"depuis": "2019 to 2023"
 			}
 		]
 	}
