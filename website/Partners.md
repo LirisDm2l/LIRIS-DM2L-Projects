@@ -27,3 +27,6 @@ Companies with which DM2L collaborates, or was recently in collaboration with.
 * [Meersens](https://meersens.com)
 * [Sahar](https://sahar.fr)
 * [Auvalie Innovation](https://auvalie.com)
+* [PALO IT](https://www.palo-it.com/en/)
+* [BCM Energy](http://www.bcmenergy.fr/fr)
+* [Infologic](https://www.infologic-copilote.fr)
