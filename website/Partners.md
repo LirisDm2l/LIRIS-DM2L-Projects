@@ -6,13 +6,16 @@ We are in active collaborations with various laboratories and universities:
 * [ISGlobal Barcelona, Spain](https://www.isglobal.org/en/)
 * [Leicester University, UK](https://le.ac.uk)
 * [Database Group, Leipzig, Germany](https://dbs.uni-leipzig.de/person/rahm)
+* [Monash University, Australia](https://www.monash.edu)
+* [Institute Of Geophysics, Czech Republic](https://www.ig.cas.cz/en/)
 
 ## National
-* [LIP6](https://www.lip6.fr), Sorbonne Universités
+* [LIP6](https://www.lip6.fr), Sorbonne Universités, Paris
 * [Laboratoire de Physique, ENS de Lyon](https://www.ens-lyon.fr)
-* [Laboratoire Hubert Curien, St Etienne](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html)
-* [Laboratoire ERIC, Lyon](https://eric.msh-lse.fr/en/)
+* [Laboratoire Hubert Curien](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html), St Etienne
+* [Laboratoire ERIC](https://eric.msh-lse.fr/en/), Lyon
 * [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr)
+* [Laboratoire Ecologie Microbienne](https://www.ecologiemicrobiennelyon.fr), Lyon
 
 # Research Insitutions & Societies
 DM2L Members are involved in multiple research societies and institutions
