@@ -24,6 +24,7 @@ DM2L Members are involved in multiple research societies and institutions
 * [CSS/France](http://css-fr.org), French Chapter of the Complex System Society
 * [Scidolyse](http://scidolyse.ens-lyon.fr), Science et Données à Lyon St-Etienne
 * [FIL](https://fil.cnrs.fr), Fédération Informatique de Lyon
+* [ArQus](https://arqus-alliance.eu) European University Alliance
 
 # Industrial Partners
 Companies with which DM2L collaborates, or was recently in collaboration with.
