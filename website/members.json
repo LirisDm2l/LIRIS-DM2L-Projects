@@ -1,5 +1,21 @@
 [
   {
+    "category": "Team Head",
+    "people": [
+      {"name":"Céline Robardet",
+"affiliation":"INSA",
+"keywords":"Team Head",
+"photo":"https://perso.liris.cnrs.fr/celine.robardet/doc/celine_web.png",
+"webpage":"https://perso.liris.cnrs.fr/celine.robardet/"
+},
+{"name":"Khalid Benabdeslem",
+"affiliation":"UCBL",
+"keywords":"Team Deputy Head",
+"photo":"people-pics/khalid.jpg",
+"webpage":"http://kbenabde.free.fr/bk/"
+}
+  
+    ]},{
     "category": "Professors",
     "people": [
       {"name":"Alexandre Aussem",
