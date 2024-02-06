@@ -14,6 +14,8 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 **Speaker**: Khalid Benabdeslem, DM2L
 
+**Abstract**: L’ensemble des activités de recherche décrites dans ce séminaire s’inscrit dans le cadre de l’apprentissage semi-supervisé, au sens large, pour l’extraction de connaissances à partir de données multidimensionnelles. Dans cette thématique, on s’intéresse à l’analyse de données partiellement étiquetées qui peut être abordée selon deux grandes familles d’approches. La première est basée sur la propagation de la "supervision", en vue de l’apprentissage supervisé. La seconde est fondée sur la transformation des données étiquetées en contraintes pour leur intégration dans un processus non-supervisé. Les travaux abordés s’inscrivent dans la deuxième famille d’approches avec une difficulté particulière. Il s’agit d’apprendre à partir de données dont la partie étiquetée est relativement réduite par rapport à la partie non-étiquetée. Pour ce faire, on s’intéresse particulièrement aux modèles topologiques, à l’analyse spectrale de graphes et à l’optimisation convexe et non convexe de la préservation de la similiarité. S’appuyant sur ces modèles, on vise à répondre à plusieurs questions qui sont souvent posées dans les communautés d’apprentissage automatique et de fouille de données, et qui demeurent toujours d’actualité. Les réponses à ces questions se traduisent par quelques contributions qui constituent le cœur de ce séminaire : (1) classification topologique sous contraintes, (2) sélection de variables en mode semi-supervisé et (3) co-sélection de variables/instances en mode simultané. 
+
 ---
 
 ### Réseaux et société : Rayonnement culturel, compétition économique et trajectoires géospatiales
