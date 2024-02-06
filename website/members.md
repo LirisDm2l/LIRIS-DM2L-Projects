@@ -3,7 +3,7 @@ Postdocs
 
 **Célestin Coquidé** - UCBL - [Website](https://scholar.google.fr/citations?user=RuO7XpYAAAAJ&hl=en) \- Dates: 2023 to 2025  
 **Project**: BIT-STABLENET: Extraction of stable relations between entities in crypto-currencies  
-**Supervision**:Rémy Cazabet
+**Supervision**: Rémy Cazabet
 
 Engineer
 ============
