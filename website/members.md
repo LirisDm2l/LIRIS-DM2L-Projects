@@ -9,7 +9,7 @@ Engineer
 ============
 
 **Antoine Taroni** - CNRS - [Website]([https://scholar.google.fr/citations?user=RuO7XpYAAAAJ&hl=en](https://liris.cnrs.fr/page-membre/antoine-taroni)) \- Dates: 2023 to 2024  
-**Project**: GEODE: Encyclopedic Geographical Discourse. NLP and GIS for toponym resolution   
+**Project**: GEODE: Toponym Disambiguation, Entity Linking and Geographic Knowledge Graphs.    
 **Supervision**: Ludovic Moncla
 
 PhD Students
