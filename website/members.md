@@ -112,7 +112,7 @@ Mehdi Kaytoue (Until 2019 - En détachement)
 *   Affiliation: UCBL
 *   [Website](https://www.lrde.epita.fr/wiki/User:Marc)
 
-Past PhD students and Postdocs
+Alumni (PhD students + Postdoc, Engineers)
 ==============================
 
 **Youcef REMIL** - INSA, [Infologic](infologic) - [Website]( https://liris.cnrs.fr/page-membre/luca-veyrin) \- Dates: 2020 to 2023  
