@@ -157,6 +157,12 @@ Alumni (PhD students + Postdoc, Engineers)
 
 * * *
 
+**Jacques Fize** - INSA - [Website](https://jacquesfize.com) \- Dates: 2020-2021  
+**Postdoctoral researcher** 
+**Supervision**: Moncla Ludovic
+
+* * *
+
 **Alexandre Millot** - INSA - [Website](https://liris.cnrs.fr/page-membre/alexandre-millot) \- Dates: 2018-2021  
 **PhD Title**: Exceptional model mining meets multi-objective optimization : Application to plant growth recipes in controlled environments  
 **Supervision**: Boulicaut Jean-François, Rémy Cazabet
@@ -166,48 +172,6 @@ Alumni (PhD students + Postdoc, Engineers)
 **Louis Duvivier** - INSA - [Website](https://liris.cnrs.fr/page-membre/louis-duvivier) \- Dates: 2018-2021  
 **PhD Title**: Automatic detection of the structure of interactions within complex systems using graph modelling and compression  
 **Supervision**: Rémy Cazabet, Céline Robardet
-
-* * *
-
-**Jacques Fize** - INSA - [Website](https://jacquesfize.com) \- Dates: 2020-2021  
-**PhD Title**: undefined  
-**Supervision**: Moncla Ludovic
-
-* * *
-
-**Aimene Belfodil** - INSA - [Website](https://tel.archives-ouvertes.fr/tel-02355529/) \- Dates: 2017-2019  
-**PhD Title**: An order theoretic point-of-view on subgroup discovery  
-**Supervision**: Mehdi Kaytoue, Céline Robardet
-
-* * *
-
-**Romain Mathonat** - INSA - [Website](https://hal.archives-ouvertes.fr/INSA-LYON-THESES/tel-02970006v2) \- Dates: 2018-2020  
-**PhD Title**: Rule Discovery in Labeled Sequential Data: Application to Game Analytics  
-**Supervision**: Mehdi Kaytoue, Jean-François Boulicaut
-
-* * *
-
-**Guillaume Bosc** - INSA - [Website](https://hal.archives-ouvertes.fr/hal-01418663/) \- Dates: 2014-2016  
-**PhD Title**: Anytime Discovery of a Diverse Set of Patterns with Monte Carlo Tree Search  
-**Supervision**: Mehdi Kaytoue, Jean-François Boulicaut
-
-* * *
-
-**Olivier Cavadenti** - INSA - [Website](https://www.theses.fr/2016LYSEI084) \- Dates: 2014-2016  
-**PhD Title**: Contribution de la découverte de motifs à l’analyse de collections de traces unitaires  
-**Supervision**: Mehdi Kaytoue, Jean-François Boulicaut
-
-* * *
-
-**Anes Bendimerad** - INSA - [Website](https://www.theses.fr/2019LYSEI058) \- Dates: 2016-2019  
-**PhD Title**: Mining useful patterns in attributed graphs  
-**Supervision**: Marc Plantevit, Céline Robardet
-
-* * *
-
-**Mohamed Ali Hammal** - INSA - [Website](https://www.theses.fr/2020LYSEI024) \- Dates: 2016-2020  
-**PhD Title**: Contribution à la découverte de sous-groupes corrélés : Application à l’analyse des systèmes territoriaux et des réseaux alimentaires  
-**Supervision**: Marc Plantevit, Céline Robardet
 
 * * *
 
@@ -229,15 +193,34 @@ Alumni (PhD students + Postdoc, Engineers)
 
 * * *
 
-**Seif-Eddine Benkabou** - 04/2015 - 03/2018
-**PhD Title**: Unsupervised anomaly detection for time-series
-**Supervision**: Khalid Benabdeslem
+**Romain Mathonat** - INSA - [Website](https://hal.archives-ouvertes.fr/INSA-LYON-THESES/tel-02970006v2) \- Dates: 2018-2020  
+**PhD Title**: Rule Discovery in Labeled Sequential Data: Application to Game Analytics  
+**Supervision**: Mehdi Kaytoue, Jean-François Boulicaut
 
 * * *
 
-**Ronan Hamon** - INSA - [Website](https://www.theses.fr/2015ENSL1017) \- Dates: 2013-2015  
-**PhD Title**: Analyse de réseaux temporels par des méthodes de traitement du signal : application au système de vélos en libre-service à Lyon  
-**Supervision**: Patrick Flandrin, Céline Robardet
+**Mohamed Ali Hammal** - INSA - [Website](https://www.theses.fr/2020LYSEI024) \- Dates: 2016-2020  
+**PhD Title**: Contribution à la découverte de sous-groupes corrélés : Application à l’analyse des systèmes territoriaux et des réseaux alimentaires  
+**Supervision**: Marc Plantevit, Céline Robardet
+
+* * *
+
+**Aimene Belfodil** - INSA - [Website](https://tel.archives-ouvertes.fr/tel-02355529/) \- Dates: 2017-2019  
+**PhD Title**: An order theoretic point-of-view on subgroup discovery  
+**Supervision**: Mehdi Kaytoue, Céline Robardet
+
+* * *
+
+**Anes Bendimerad** - INSA - [Website](https://www.theses.fr/2019LYSEI058) \- Dates: 2016-2019  
+**PhD Title**: Mining useful patterns in attributed graphs  
+**Supervision**: Marc Plantevit, Céline Robardet
+
+* * *
+
+
+**Seif-Eddine Benkabou** - 04/2015 - 03/2018
+**PhD Title**: Unsupervised anomaly detection for time-series
+**Supervision**: Khalid Benabdeslem
 
 * * *
 
@@ -251,6 +234,23 @@ Alumni (PhD students + Postdoc, Engineers)
 **PhD Title**: Semi-supervised Co-selection
 **Supervision**: Khalid Benabdeslem
 
+* * *
+
+**Guillaume Bosc** - INSA - [Website](https://hal.archives-ouvertes.fr/hal-01418663/) \- Dates: 2014-2016  
+**PhD Title**: Anytime Discovery of a Diverse Set of Patterns with Monte Carlo Tree Search  
+**Supervision**: Mehdi Kaytoue, Jean-François Boulicaut
+
+* * *
+
+**Olivier Cavadenti** - INSA - [Website](https://www.theses.fr/2016LYSEI084) \- Dates: 2014-2016  
+**PhD Title**: Contribution de la découverte de motifs à l’analyse de collections de traces unitaires  
+**Supervision**: Mehdi Kaytoue, Jean-François Boulicaut
+
+* * *
+
+**Ronan Hamon** - INSA - [Website](https://www.theses.fr/2015ENSL1017) \- Dates: 2013-2015  
+**PhD Title**: Analyse de réseaux temporels par des méthodes de traitement du signal : application au système de vélos en libre-service à Lyon  
+**Supervision**: Patrick Flandrin, Céline Robardet
 
 * * *
 
