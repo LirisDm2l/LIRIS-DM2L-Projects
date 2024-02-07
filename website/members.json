@@ -16,7 +16,7 @@
 }
   
     ]},{
-    "category": "Professors",
+    "category": "Full Professors",
     "people": [
       {"name":"Alexandre Aussem",
 "affiliation":"UCBL",
@@ -33,7 +33,7 @@
   
     ]},
  {
-    "category": "Maître de Conférences (Associate Professors) - Resident",
+    "category": "Associate Professors",
     "people": [
 {"name":"Khalid Benabdeslem",
 "affiliation":"UCBL",
