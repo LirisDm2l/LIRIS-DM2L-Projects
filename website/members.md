@@ -81,6 +81,11 @@ PhD Students
 
 * * *
 
+**Auday BERRO** - UCBL, ECL - [Website](https://github.com/AudayBerro) \- Dates: 2019 to 2024  
+**PhD Title**: Apprentissage automatique pour les spécifications déclaratives et les services cognitifs  
+**Supervision**: Boualem Benatallah, Khalid Benabdeslem
+
+
 Past Members
 ============
 
@@ -135,15 +140,10 @@ Alumni (PhD students + Postdoc, Engineers)
 
 **Yacine GACI** - UCBL - [Website](https://liris.cnrs.fr/page-membre/yacine-gaci) \- Dates: 2019 to 2023  
 **PhD Title**: Vers la Subjectivité dans le Traitement de Langage Naturel  
-**Supervision**: Boualem Benatallah, Khalid Benabdeslem, Mohand-Said Hacid
-
-* * *
-
-**Auday BERRO** - UCBL, ECL - [Website](https://github.com/AudayBerro) \- Dates: 2019 to 2023  
-**PhD Title**: Apprentissage automatique pour les spécifications déclaratives et les services cognitifs  
 **Supervision**: Boualem Benatallah, Khalid Benabdeslem
 
 * * *
+
 
 **Hugo BERTRAND** - UCBL, ECL - [Website](https://perso.liris.cnrs.fr/hbertrand) \- Dates: 2019 to 2023  
 **PhD Title**: A venir  
@@ -223,9 +223,40 @@ Alumni (PhD students + Postdoc, Engineers)
 
 * * *
 
+**Vivien Kraus** - 03/2018 - 03/2021
+**PhD Title**: Semi-supervised multi-task regression  
+**Supervision**: Khalid Benabdeslem
+
+* * *
+
+**Seif-Eddine Benkabou** - 04/2015 - 03/2018
+**PhD Title**: Unsupervised anomaly detection for time-series
+**Supervision**: Khalid Benabdeslem
+
+* * *
+
 **Ronan Hamon** - INSA - [Website](https://www.theses.fr/2015ENSL1017) \- Dates: 2013-2015  
 **PhD Title**: Analyse de réseaux temporels par des méthodes de traitement du signal : application au système de vélos en libre-service à Lyon  
 **Supervision**: Patrick Flandrin, Céline Robardet
+
+* * *
+
+**Abdelouahid Alalga** - 12/2013 - 07/2017
+**PhD Title**: Semi-supervised multi-label feature selection
+**Supervision**: Khalid Benabdeslem, Nora Taleb
+
+* * *
+
+**Raywat Makkhongkaew** - 09/2013 - 12/2016
+**PhD Title**: Semi-supervised Co-selection
+**Supervision**: Khalid Benabdeslem
+
+
+* * *
+
+**Mohammed Hindawi** - 03/2010 - 02/2013
+**PhD Title**: Semi-supervised feature selection
+**Supervision**: Khalid Benabdeslem, Alexandre Aussem
 
 * * *
 
@@ -233,4 +264,3 @@ Alumni (PhD students + Postdoc, Engineers)
 **PhD Title**: Un Cadre générique pour la co-classification sous contraintes : application à l'analyse du transcriptome  
 **Supervision**: Jean-François Boulicaut, Céline Robardet
 
-* * *
