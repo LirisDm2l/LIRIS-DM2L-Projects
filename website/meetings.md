@@ -6,6 +6,34 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
+
+---
+### Titre à venir
+
+**Day, Time, Location**:  Friday March 8 2024, 10:00, 
+
+**Speaker**: Pascal Germain
+
+**Abstract**: TBD
+
+---
+### Pré-soutenance de Thèse
+
+**Day, Time, Location**:  Friday February 23 2024, 11:30, 
+
+**Speaker**: Mehdi Hennequin, Doctorant DM2L
+
+**Abstract**: TBD
+
+---
+### Explicabilité en neuroimagerie : graphes et cohérence de l’espace latent
+
+**Day, Time, Location**:  Friday February 16 2024, 14:00, Bat. Ada Lovelace
+
+**Speaker**: Carole Frindel, Creatis, INSA Lyon
+
+**Abstract**: La recherche en neuroimagerie s'oriente de plus en plus vers des approches explicatives pour mieux comprendre les processus complexes du cerveau. Ce séminaire explore la notion d'explicabilité en utilisant des graphes pour représenter les structures vasculaires dans le contexte de la segmentation. L'analyse de la contribution, focalisée sur les points critiques tels que les bifurcations et les branches du graphe, permet d'appréhender les mécanismes sous-jacents à la tâche de segmentation. Parallèlement, le séminaire examinera l'espace latent dans le cadre de la segmentation de lésions d'AVC, en utilisant diverses techniques de réduction de dimension. L'observation de l'espace latent offre des perspectives nouvelles sur la variabilité et la complexité des caractéristiques des lésions. L'exploration de la cohérence spatiale dans cet espace latent, soulignant l'importance de la structuration de l'information pour une segmentation précise.
+
 ---
 
 ### Apprentissage semi-supervisé : Classification et réduction de dimensions 
