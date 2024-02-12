@@ -12,18 +12,22 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 **Day, Time, Location**:  Friday March 8 2024, 10:00, Salle C2
 
-**Speaker**: Pascal Germain
+**Speaker**: Pascal Germain, Université de Laval, (QC, Canada)
 
 **Abstract**: TBD
 
 ---
-### Pré-soutenance de Thèse
+### Pré-soutenance de Thèse: Apprentissage Multi-vue par Adaptation de Domaine Non Supervisée : Application à la Maintenance Prédictive.
 
 **Day, Time, Location**:  Friday February 23 2024, 11:30, Salle C5
 
 **Speaker**: Mehdi Hennequin, Doctorant DM2L
 
-**Abstract**: TBD
+**Abstract**: Cette thèse se consacre à deux paradigmes souvent traités séparément dans la communauté de l'apprentissage automatique : l'adaptation de domaine, une branche de l'apprentissage par transfert, et l'apprentissage multi-vues. Ces deux domaines, significatifs dans l'application de l'apprentissage automatique, ont attiré une attention considérable. En faisant le pont entre ces deux domaines, la littérature propose certains résultats algorithmiques. Malgré ces liens établis, le problème spécifique de l'adaptation de domaine multi-vues a été relativement peu exploré, en particulier dans le contexte de la régression, et manque également d'analyse théorique.
+
+Cette thèse présente diverses approches pour intégrer ces deux paradigmes. Dans un premier temps, deux contributions principales sont présentées dans un cadre de régression : la première introduit une adaptation de la distance entre distributions dans un contexte multi-vues, nommée Discrepancy de Co-Régression, et un nouvel algorithme optimisant les représentations et les poids de chaque vue. La seconde contribution propose une nouvelle approche pour l'adaptation de domaine multi-vues basée l'auto-attention pour les tâches de régression, en étendant la mesure entre distributions et en affinant l'application des mécanismes d'auto-attention pour une sélection de variables plus efficace. Ces avancées sont étayées par des expériences sur des ensembles de données réels, démontrant des améliorations substantielles par rapport aux résultats existants.
+
+Enfin, les derniers travaux proposent une analyse théorique en utilisant les outils PAC-Bayésiens pour l'adaptation de domaine multi-vues, introduisant une série de bornes à travers le paradigme C-Bound et le paradigme de désaccord. Ces derniers résultats théoriques sont proposés dans un cadre de classification.
 
 ---
 ### Explicabilité en neuroimagerie : graphes et cohérence de l’espace latent
