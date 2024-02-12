@@ -13,7 +13,10 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
   * https://tnetwork.readthedocs.io/en/latest/
   * https://github.com/Yquetzal/tnetwork
   * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
- 
+
+ * __mosaic benchmark__ is a python library to generate dynamic networks with community structure. It has been developed by [Yas Asgari](https://www.yasasgari.com) as she was intern in the team, working with Rémy Cazabet.
+  * https://yasasgari.github.io/Mosaic-benchmark/tutorial/
+  * Article: [Asgari, Y., Cazabet, R., & Borgnat, P. (2023, November). Mosaic benchmark networks: Modular link streams for testing dynamic community detection algorithms. In Complex Networks And Applications 2023.]
 # Other software 
 
 ## Subgroup Discovery / Exceptional Model Mining
