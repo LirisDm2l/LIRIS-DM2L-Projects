@@ -3,20 +3,20 @@ This repository contains links to the projects made by the Team LIRIS DM2L:
 # Python libraries
 * __Perdido__ is a python library for geoparsing and geocoding French texts. It provides NLP and GIS methods for geoparsing French texts.
   * https://github.com/ludovicmoncla/perdido
-  * Article: [L. Moncla and M. Gaio. Perdido: Python library for geoparsing and geocoding French texts. In proceedings of the First International Workshop on Geographic Information Extraction from Texts (GeoExT'23), ECIR Conference, Dublin, Ireland, 2023]
+  *  >  [L. Moncla and M. Gaio. Perdido: Python library for geoparsing and geocoding French texts. In proceedings of the First International Workshop on Geographic Information Extraction from Texts (GeoExT'23), ECIR Conference, Dublin, Ireland, 2023]
 
 * __CDlib__ is a python library dedicated to the community detection problem on graphs. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
   * https://github.com/GiulioRossetti/cdlib
-  * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
+  *  >  [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
 
 * __tnetwork__ is a python library dedicated to the manipulation of temporal/dynamic networks, and in particular for dynamic community detection. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
   * https://tnetwork.readthedocs.io/en/latest/
   * https://github.com/Yquetzal/tnetwork
-  * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
+  *  >  [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
 
 * __mosaic benchmark__ is a python library to generate dynamic networks with community structure. It has been developed by [Yas Asgari](https://www.yasasgari.com) as she was intern in the team, working with Rémy Cazabet.
   * https://yasasgari.github.io/Mosaic-benchmark/tutorial/
-  * Article: [Asgari, Y., Cazabet, R., & Borgnat, P. (2023, November). Mosaic benchmark networks: Modular link streams for testing dynamic community detection algorithms. In Complex Networks And Applications 2023.]
+  *  >  [Asgari, Y., Cazabet, R., & Borgnat, P. (2023, November). Mosaic benchmark networks: Modular link streams for testing dynamic community detection algorithms. In Complex Networks And Applications 2023.]
     
 # Other software 
 
