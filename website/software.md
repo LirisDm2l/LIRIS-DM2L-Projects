@@ -1,5 +1,22 @@
 This repository contains links to the projects made by the Team LIRIS DM2L:
-# Subgroup Discovery / Exceptional Model Mining
+
+# Python libraries
+* __Perdido__ is a python library for geoparsing and geocoding French texts. It provides NLP and GIS methods for geoparsing French texts.
+  * https://github.com/ludovicmoncla/perdido
+  * Article: [L. Moncla and M. Gaio. Perdido: Python library for geoparsing and geocoding French texts. In proceedings of the First International Workshop on Geographic Information Extraction from Texts (GeoExT'23), ECIR Conference, Dublin, Ireland, 2023]
+
+* __CDlib__ is a python library dedicated to the community detection problem on graphs. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
+  * https://github.com/GiulioRossetti/cdlib
+  * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
+
+* __tnetwork__ is a python library dedicated to the manipulation of temporal/dynamic networks, and in particular for dynamic community detection. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
+  * https://tnetwork.readthedocs.io/en/latest/
+  * https://github.com/Yquetzal/tnetwork
+  * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
+ 
+# Other software 
+
+## Subgroup Discovery / Exceptional Model Mining
 
 * __RefineAndMine__ is an algorithm for discovering subgroups in numerical data. It has three key properties w.r.t. the state of the art: (i) It yields progressively interval patterns whose quality improves over time; (ii) It can be interrupted anytime and always gives a guarantee bounding the error on the top pattern quality and (iii) It always bounds a distance to the exhaustive exploration. 
   * https://github.com/Adnene93/RefineAndMine
@@ -23,7 +40,7 @@ Anytime discovery of a diverse set of patterns with Monte Carlo tree search. Dat
    * https://bitbucket.org/ghentdatascience/mica-miner/src/master/
    * >[Anes Bendimerad, Jefrey Lijffijt, Marc Plantevit, Céline Robardet, and Tijl De Bie. 2019. Contrastive antichains in hierarchies. In The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’19).]
 
-# Pattern mining algorithms for attributed graphs
+## Pattern mining algorithms for attributed graphs
 
 * __ENERGETICS__ and __EXPRESS__ are two algorithms that allow to discover exceptional patterns in __vertex attributed graphs__. ENERGETICS is an exhaustive algorithm while EXPRESS is an output space sampling algorithm. These algorithms were presented at IEEE ICDM 2016. For more details:
   * https://github.com/AnesBendimerad/Exceptional-Sub-graph-Mining
@@ -43,7 +60,7 @@ Anytime discovery of a diverse set of patterns with Monte Carlo tree search. Dat
   * https://github.com/mehdi-kaytoue/contextual-exceptional-subgraph-mining
   * > [Mehdi Kaytoue, Marc Plantevit, Albrecht Zimmermann, Ahmed Anes Bendimerad, Céline Robardet: Exceptional contextual subgraph mining. Machine Learning 106(8): 1171-1211 (2017)]
 
-# Pattern mining algorithms for sequences 
+## Pattern mining algorithms for sequences 
 * __BalanceSpan__ is an algorithm designed to extract frequent patterns (strategies) from StarCraft II replays. It efficiently computes a measure that evaluates the __balance of a strategy__, i.e., if the strategy is likely to win or to lose. It allows the user (i) studying his opponent in an E-sport match, (ii) learning from his own games, and (iii), for the game editor, to study if the rules of the game needs to be adapted due to imbalanced strategies used too often.
   * http://guillaume-bosc.github.io/BalanceSpan/
   * >[Guillaume Bosc, Philip Tan, Jean-François Boulicaut, Chedy Raïssi, Mehdi Kaytoue:
@@ -53,18 +70,18 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
   * https://sites.google.com/view/sits-p2miner
   * > [N. Meger, C. Rigotti, C. Pothier, T. Nguyen, F. Lodge, L. Gueguen, R. Andreoli, M.-P. Doin and M. Datcu. Ranking Evolution Maps for Satellite Image Time Series Exploration - Application to Crustal Deformation and Environmental Monitoring. In journal: Data Mining and Knowledge Discovery. Springer, 2019, 33 (1), pp.131-167.]
 
-# Other pattern domains
+## Other pattern domains
 * __MCPP__: Mining Convex Polygon Patterns in Spatial Datasets. Pattern mining considers the search space of numerical data as a set of hyperectangles with sides parallel to the cordinates. We present here several algorithms to mine more expresive numerical patterns: convex polygons.
   * https://github.com/BelfodilAimene/MiningConvexPolygonPatterns
   * > [Aimene Belfodil, Sergei O. Kuznetsov, Céline Robardet, Mehdi Kaytoue: Mining Convex Polygon Patterns with Formal Concept Analysis. IJCAI 2017: 1425-1432]
 
 
-# Data generators
+## Data generators
 * EPCIS is a GS1 standard to encode products as they travel throughout the supply chain. As this kind of data is generally sensitive, and because random generators can not easily capture real behaviors, we propose to capture data from the famous game OpenTTD version 1.5.0. This plugin captures all the transportation and the manufacturing events that happen in the game (made by real players of the myriad of available artificial agents) and writes them into an output file using the EPCIS format.
   * https://anesbendimerad.github.io/EPCIS-Events-Generator-Based-On-OpenTTD/
   * [A. Bendimerad, V. Codocedo, J.-F. Boulicaut, M. Kaytoue. Generating EPCIS events data with the video game OpenTTD, 2016]
 
-# Geographic Information Retrieval
+## Geographic Information Retrieval
 
 * spaCy Custom Spancat trained on Diderot & d’Alembert’s Encyclopédie entries. This model is designed to identify and classify text spans corresponding to named entities (such as Spatial, Person, and MISC), as well as nested named entities (including Spatial, Person, and MISC), spatial relations, and other relevant information within French encyclopedic entries. 
   * https://huggingface.co/GEODE/fr_spacy_custom_spancat_edda
@@ -79,21 +96,9 @@ A Pattern Mining Approach to Study Strategy Balance in RTS Games. IEEE Trans. Co
 
 
 
-# Python library
-* __Perdido__ is a python library for geoparsing and geocoding French texts. It provides NLP and GIS methods for geoparsing French texts.
-  * https://github.com/ludovicmoncla/perdido
-  * Article: [L. Moncla and M. Gaio. Perdido: Python library for geoparsing and geocoding French texts. In proceedings of the First International Workshop on Geographic Information Extraction from Texts (GeoExT'23), ECIR Conference, Dublin, Ireland, 2023]
 
-* __CDlib__ is a python library dedicated to the community detection problem on graphs. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
-  * https://github.com/GiulioRossetti/cdlib
-  * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
 
-* __tnetwork__ is a python library dedicated to the manipulation of temporal/dynamic networks, and in particular for dynamic community detection. It contains implementation of algorithms, evaluation functions, visualizations, and other tools related to this research topic. 
-  * https://tnetwork.readthedocs.io/en/latest/
-  * https://github.com/Yquetzal/tnetwork
-  * Article: [G. Rossetti, L. Milli, R. Cazabet. CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks, Sumbitted]
-
-# Chatbot
+## Chatbot
 * __chatbotinfo__  is a context aware  education chatbot based on hierarchical recurrent attention network. This chatbot is now online and answer to questions from applicants to the Master in Data Science of University CLaude Bernard Lyon 1.   
   * http://chatbotinfo.univ-lyon1.fr
   * > [J-B. Aujogue and Alex Aussem. Hierarchical Recurrent Attention Networks for Context-Aware Education Chatbots. International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, July 14-19, 2019.]
