@@ -10,7 +10,7 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 ---
 ### Titre à venir
 
-**Day, Time, Location**:  Friday March 8 2024, 10:00, 
+**Day, Time, Location**:  Friday March 8 2024, 10:00, Salle C2
 
 **Speaker**: Pascal Germain
 
@@ -19,7 +19,7 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 ---
 ### Pré-soutenance de Thèse
 
-**Day, Time, Location**:  Friday February 23 2024, 11:30, 
+**Day, Time, Location**:  Friday February 23 2024, 11:30, Salle C5
 
 **Speaker**: Mehdi Hennequin, Doctorant DM2L
 
