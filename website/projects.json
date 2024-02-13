@@ -12,7 +12,7 @@
 "start":2023,
 "end":2024,
  "funding":"UCBL",
- "budget_k":20,
+ "budget_k":40,
  "who":"Benabdeslem"
 },
     {"name":"Self Supervised Learning for Link Prediction",
@@ -95,7 +95,7 @@
 "start":2020,
 "end":2024,
  "funding":"H2020",
- "budget_k":40,
+ "budget_k":300,
  "who":"Benabdeslem",
 "partners": "HCL (FR), Univ. Lyon 2 (FR), CHRU (FR), IPO (PT), IDIBAPS(ES), UMC (NL), LSHTM(UK), Servtech (DE), ECPC (BE), UMCG (NL), MGH (US), Univ. Calabria (IT)"
 },
