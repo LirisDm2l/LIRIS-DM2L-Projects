@@ -8,7 +8,7 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 
 ---
-### Titre à venir
+### Borne et algorithmes basés sur la compression d’échantillons pour le méta-apprentissage. 
 
 **Day, Time, Location**:  Friday March 8 2024, 10:00, Salle C2
 
