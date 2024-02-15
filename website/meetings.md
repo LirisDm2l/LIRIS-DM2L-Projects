@@ -17,6 +17,17 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 **Abstract**: TBD
 
 ---
+
+### Explicabilité en neuroimagerie : graphes et cohérence de l’espace latent
+
+**Day, Time, Location**:  Monday March 3 2024, 10:00, Bat. Ada Lovelace 501.3.01
+
+**Speaker**: Carole Frindel, Creatis, INSA Lyon
+
+**Abstract**: La recherche en neuroimagerie s'oriente de plus en plus vers des approches explicatives pour mieux comprendre les processus complexes du cerveau. Ce séminaire explore la notion d'explicabilité en utilisant des graphes pour représenter les structures vasculaires dans le contexte de la segmentation. L'analyse de la contribution, focalisée sur les points critiques tels que les bifurcations et les branches du graphe, permet d'appréhender les mécanismes sous-jacents à la tâche de segmentation. Parallèlement, le séminaire examinera l'espace latent dans le cadre de la segmentation de lésions d'AVC, en utilisant diverses techniques de réduction de dimension. L'observation de l'espace latent offre des perspectives nouvelles sur la variabilité et la complexité des caractéristiques des lésions. L'exploration de la cohérence spatiale dans cet espace latent, soulignant l'importance de la structuration de l'information pour une segmentation précise.
+
+---
+
 ### Pré-soutenance de Thèse: Apprentissage Multi-vue par Adaptation de Domaine Non Supervisée : Application à la Maintenance Prédictive.
 
 **Day, Time, Location**:  Friday February 23 2024, 11:30, Salle C5
@@ -28,15 +39,6 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 Cette thèse présente diverses approches pour intégrer ces deux paradigmes. Dans un premier temps, deux contributions principales sont présentées dans un cadre de régression : la première introduit une adaptation de la distance entre distributions dans un contexte multi-vues, nommée Discrepancy de Co-Régression, et un nouvel algorithme optimisant les représentations et les poids de chaque vue. La seconde contribution propose une nouvelle approche pour l'adaptation de domaine multi-vues basée l'auto-attention pour les tâches de régression, en étendant la mesure entre distributions et en affinant l'application des mécanismes d'auto-attention pour une sélection de variables plus efficace. Ces avancées sont étayées par des expériences sur des ensembles de données réels, démontrant des améliorations substantielles par rapport aux résultats existants.
 
 Enfin, les derniers travaux proposent une analyse théorique en utilisant les outils PAC-Bayésiens pour l'adaptation de domaine multi-vues, introduisant une série de bornes à travers le paradigme C-Bound et le paradigme de désaccord. Ces derniers résultats théoriques sont proposés dans un cadre de classification.
-
----
-### Explicabilité en neuroimagerie : graphes et cohérence de l’espace latent
-
-**Day, Time, Location**:  Friday February 16 2024, 14:00, Bat. Ada Lovelace
-
-**Speaker**: Carole Frindel, Creatis, INSA Lyon
-
-**Abstract**: La recherche en neuroimagerie s'oriente de plus en plus vers des approches explicatives pour mieux comprendre les processus complexes du cerveau. Ce séminaire explore la notion d'explicabilité en utilisant des graphes pour représenter les structures vasculaires dans le contexte de la segmentation. L'analyse de la contribution, focalisée sur les points critiques tels que les bifurcations et les branches du graphe, permet d'appréhender les mécanismes sous-jacents à la tâche de segmentation. Parallèlement, le séminaire examinera l'espace latent dans le cadre de la segmentation de lésions d'AVC, en utilisant diverses techniques de réduction de dimension. L'observation de l'espace latent offre des perspectives nouvelles sur la variabilité et la complexité des caractéristiques des lésions. L'exploration de la cohérence spatiale dans cet espace latent, soulignant l'importance de la structuration de l'information pour une segmentation précise.
 
 ---
 
