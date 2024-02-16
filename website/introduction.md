@@ -1,7 +1,7 @@
 <p align="center"><img src="https://projet.liris.cnrs.fr/dm2l/pics/logo_DM2L.png" alt="drawing" width="200"/></p>
 # Introducing the team
 
-DM2L is a team created in 2012 whose scientific activity is devoted to Knowledge Discovery from Data using automatic or semi-automatic techniques. This includes: data mining, machine learning, pattern recognition, statistical learning, data analysis, natural language processing, data archeology, etc. Its research interests are mainly data mining and machine learning.
+DM2L (Data Mining & Machine Learning) is a team created in 2012 whose scientific activity is devoted to Knowledge Discovery from Data using automatic or semi-automatic techniques. This includes: data mining, machine learning, pattern recognition, statistical learning, data analysis, natural language processing, data archeology, etc. Its research interests are mainly data mining and machine learning.
 
 # Fields of interest
 
