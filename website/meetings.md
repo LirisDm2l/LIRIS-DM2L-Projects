@@ -8,13 +8,13 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 
 ---
-### Borne et algorithmes basés sur la compression d’échantillons pour le méta-apprentissage. 
+### De la théorie de compression d’échantillons vers les algorithmes de méta-apprentissage. 
 
 **Day, Time, Location**:  Friday March 8 2024, 10:00, Salle C2
 
 **Speaker**: Pascal Germain, Université de Laval, (QC, Canada)
 
-**Abstract**: TBD
+**Abstract**: En apprentissage automatique, la théorie de la compression d'échantillon (Littlestone & Warmuth, 1986) permet d'obtenir des garanties de généralisation pour des prédicteurs qui ne dépendent qu'un de petit sous-ensemble des données d'entraînement. Ces garanties sont valides même si l'algorithme d'apprentissage observe l'entièreté des données d'entraînement, du moment qu'il existe une fonction qui « recontruit » le prédicteur appris à partir de « l'échantillon de compression ». Dans ce séminaire, je présenterai d'abord la théorie de la compression d'échantillon telle qu’elle a été envisagée dans une série de travaux initiée par Marchand & Shawe-Taylor (2002, 2003). Je proposerai ensuite certaines améliorations aux résultats existants (mettant notamment à profit la théorie PAC-Bayes). Ensuite, je discuterai ensuite de travaux en cours visant à apprendre une « fonction de reconstruction » à l'aide de réseaux de neurones profonds, ouvrant la porte à de nouvelles stratégies de méta-apprentissage.
 
 ---
 
