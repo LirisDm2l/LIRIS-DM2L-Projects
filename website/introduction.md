@@ -10,7 +10,7 @@ DM2L team leverages about 7 permanent researchers whose computer skills and rese
 •	Fundamentals of constraint-based mining
 •	N-ary relations or Boolean tensors mining
 •	Spatio-temporal data mining
-•	Dynamic, attributed graph analysis and mining
+•	Graph Learning & Mining : Dynamic, Attributed, Temporal, Text-rich,  ...
 •	Ensemble learning
 •	Learning probabilistic graphical models
 •	Natural language processing and geographic information retrieval
