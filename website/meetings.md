@@ -6,6 +6,15 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
+--
+
+### Évaluation de l'incertitude de la consommation de carburant basée sur des données ouvertes. 
+
+**Day, Time, Location**:  Friday March 22 2024, 11:00, Salle 502.3.23
+
+**Speaker**: Antoine Chevrot
+
+**Abstract**: Une estimation précise de la consommation de carburant est cruciale pour l'efficacité des opérations aériennes et la gestion du carburant. Cependant, l'accès limité à des données détaillées sur le trafic et les performances des aéronefs conduit les chercheurs à s'appuyer sur des sources de données ouvertes pour l'estimation, ce qui introduit des incertitudes dues à plusieurs hypothèses. Dans cette étude, nous proposons une évaluation de l'incertitude du calcul de la consommation de carburant en utilisant des données ouvertes. En analysant les données de vol en temps réel obtenues depuis le réseau Opensky, qui comprend différents types d'aéronefs, nous examinons plusieurs hypothèses couramment utilisées ayant un impact sur la consommation de carburant. Des variables telles que l'altitude de vol, la vitesse aérienne, le poids ou la motorisation sont toutes considérées comme contribuant aux variations de la consommation de carburant. Notre objectif est de réaliser une analyse de sensibilité pour montrer le degré d'impact de ces variables sur la consommation finale de carburant. Cette étude souligne ainsi l'importance des données ouvertes pour affiner les méthodes d'estimation des flux de carburant.
 
 ---
 ### De la théorie de compression d’échantillons vers les algorithmes de méta-apprentissage. 
