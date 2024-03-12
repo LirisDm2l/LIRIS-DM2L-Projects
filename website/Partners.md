@@ -15,15 +15,15 @@ We are in active collaborations with various laboratories and universities:
 
 
 ## National
-* DEEP INSA
-* HCL 
+* [DEEP INSA](https://deep.insa-lyon.fr/)
+* [HCL](https://www.chu-lyon.fr/service-de-rythmologie-cardiaque) 
 * [LIP6](https://www.lip6.fr), Sorbonne Universités, Paris
 * [Laboratoire de Physique, ENS de Lyon](https://www.ens-lyon.fr)
 * [Laboratoire Hubert Curien](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html), St Etienne
 * [Laboratoire ERIC](https://eric.msh-lse.fr/en/), Lyon
 * [Laboratoire Ecologie Microbienne](https://www.ecologiemicrobiennelyon.fr), Lyon
-* LIPN
-* LIAS
+* [LIPN](https://lipn.univ-paris13.fr/)
+* [LIAS](https://www.lias-lab.fr/fr/)
 
 * [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr)
 
@@ -40,10 +40,10 @@ DM2L Members are involved in multiple research societies and institutions
 Companies with which DM2L collaborates, or was recently in collaboration with.
 * [Auvalie Innovation](https://auvalie.com)
 * [BCM Energy](http://www.bcmenergy.fr/fr)
-* EAU du Grand Lyon
+* [EAU du Grand Lyon](https://agence.eaudugrandlyon.com/)
 * GALILE
 * [Infologic](https://www.infologic-copilote.fr)
-* LIZEO
+* [LIZEO](https://www.lizeo-group.com/)
 * [Meersens](https://meersens.com)
 * [PALO IT](https://www.palo-it.com/en/)
 * ROXWHALE
