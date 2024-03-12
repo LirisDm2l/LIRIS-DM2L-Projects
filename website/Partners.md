@@ -2,14 +2,14 @@
 We are in active collaborations with various laboratories and universities:
   
 ## International
-* [ADAPT, Dublin, Ireland] (https://www.adaptcentre.ie/about/)
+* [ADAPT, Dublin, Ireland](https://www.adaptcentre.ie/about/)
 * [Database Group, Leipzig, Germany](https://dbs.uni-leipzig.de/person/rahm)
-* [GRAAL, Laval, Canada] (https://graal.ift.ulaval.ca/)
-* [GERAD, Montreal, Canada] (https://www.gerad.ca/fr)
+* [GRAAL, Laval, Canada](https://graal.ift.ulaval.ca/)
+* [GERAD, Montreal, Canada](https://www.gerad.ca/fr)
 * [ISGlobal Barcelona, Spain](https://www.isglobal.org/en/)
 * [Institute Of Geophysics, Czech Republic](https://www.ig.cas.cz/en/)
 * [KDD Lab in Pisa, Italy](https://kdd.isti.cnr.it)
-* [LABRI, Algeria] (https://www.esi-sba.dz/fr/index.php/presentation-labri/)
+* [LABRI, Algeria](https://www.esi-sba.dz/fr/index.php/presentation-labri/)
 * [Leicester University, UK](https://le.ac.uk)
 * [Monash University, Australia](https://www.monash.edu)
 
