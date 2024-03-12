@@ -63,17 +63,6 @@ PhD Students
 
 * * *
 
-**Léonard TSCHORA** - INSA, [BCM Energy](http://www.bcmenergy.fr/fr) - [Website](https://liris.cnrs.fr/page-membre/leonard-tschora) \- Dates: 2020 to 2024  
-**PhD Title**: Machine Learning Techniques for electricity prices forecasting  
-**Supervision**: Céline Robardet, Marc Plantevit
-
-* * *
-
-**Mehdi HENNEQUIN** - UCBL - [Website](https://perso.liris.cnrs.fr/mhennequin) \- Dates: 2020 to 2024  
-**PhD Title**: Apprentissage multi–vues pour l’optimisation de la durée de vie des profils d'outils de roulage à froid  
-**Supervision**: Khalid Benabdeslem, Haytham Elghazel
-
-* * *
 
 **Florian BAUD** - UCBL - [Website](https://florianbaud.github.io/) \- Dates: 2020 to 2024  
 **PhD Title**: Les agents conversationnels neuronaux à mémoire  
@@ -119,6 +108,19 @@ Mehdi Kaytoue (Until 2019 - En détachement)
 
 Alumni (PhD students + Postdoc, Engineers)
 ==============================
+
+**Léonard TSCHORA** - INSA, [BCM Energy](http://www.bcmenergy.fr/fr) - [Website](https://liris.cnrs.fr/page-membre/leonard-tschora) \- Dates: 2020 to 2024  
+**PhD Title**: Machine Learning Techniques for electricity prices forecasting  
+**Supervision**: Céline Robardet, Marc Plantevit
+
+
+* * *
+
+**Mehdi HENNEQUIN** - UCBL - [Website](https://perso.liris.cnrs.fr/mhennequin) \- Dates: 2020 to 2024  
+**PhD Title**: Apprentissage multi–vues pour l’optimisation de la durée de vie des profils d'outils de roulage à froid  
+**Supervision**: Khalid Benabdeslem, Haytham Elghazel
+
+* * *
 
 **Youcef REMIL** - INSA, [Infologic](infologic) - [Website]( https://liris.cnrs.fr/page-membre/luca-veyrin) \- Dates: 2020 to 2023  
 **PhD Title**: Recherche et développement de nouvelles méthodes AIOps pour la maintenance prédictive d'un grand parc de serveurs d'applications  
