@@ -41,7 +41,7 @@ Companies with which DM2L collaborates, or was recently in collaboration with.
 * [Auvalie Innovation](https://auvalie.com)
 * [BCM Energy](http://www.bcmenergy.fr/fr)
 * [EAU du Grand Lyon](https://agence.eaudugrandlyon.com/)
-* GALILE
+* [GALILE](https://www.galile.fr/)
 * [Infologic](https://www.infologic-copilote.fr)
 * [LIZEO](https://www.lizeo-group.com/)
 * [Meersens](https://meersens.com)
