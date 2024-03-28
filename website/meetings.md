@@ -8,6 +8,16 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 --
 
+### Learning  and Model Transfer  for  Manifold-Valued Data
+
+**Day, Time, Location**:  Friday May 03 2024, 14:00, Salle 502.3.23
+
+**Speaker**: Chafik Samir
+
+**Abstract**: Transfer learning has been applied in different fields and for various applications but the main objective remains, in general,  the acquisition of knowledge/expertise from a domain, a relationship, a distribution, or a task, etc. and use it as a priori/skill in a different context. In this talk, we only consider the transfer of knowledge learned from one population to another while ensuring that they belong to the same space and are fulfilling inherent constraints. This ongoing topic offers promising approaches to solve the problem of lack of or missing labels for new or specific data, reinforcement processes, etc. Unfortunately, the generalization of these methods, very successful for vector data, represents a challenge for manifold-valued data. For this purpose, we will present an overview and recent approaches to show how to transfer some  learning models on manifolds and will discuss the constraints, some theoretical guarantees, and illustrate some applications.
+
+--
+
 ### Évaluation de l'incertitude de la consommation de carburant basée sur des données ouvertes. 
 
 **Day, Time, Location**:  Friday March 22 2024, 11:00, Salle 502.3.23
